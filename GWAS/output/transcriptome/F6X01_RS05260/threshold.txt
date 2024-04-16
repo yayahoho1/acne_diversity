@@ -1,0 +1,2 @@
+Patterns:	1718
+Threshold:	2.91E-05

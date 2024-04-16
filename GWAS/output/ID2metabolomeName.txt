@@ -1,0 +1,361 @@
+ID	MetabolomeName
+M306T154	N1-trans-Feruloylagmatine
+M201T188	gamma-L-Glutamyl-D-alanine
+M190T442	(2S)-2-{[1-(R)-Carboxyethyl]amino}pentanoate
+M183T60	Methylselenopyruvate
+M237T328	L-Formylkynurenine
+M232T157	N2-Succinyl-L-ornithine
+M256T356	L-Pyrrolysine
+M301T539	2-Methoxyestrone
+M166T801	D-beta-Phenylalanine
+M380T380	2-Methoxyestrone 3-sulfate
+M477T350_2	2-Methoxyestrone 3-glucuronide
+M255T444_2	Estradiol
+M287T357	16b-Hydroxyestrone
+M333T518	Estrone sulfate
+M429T417	Estrone glucuronide
+M448T570_3	17-beta-Estradiol-3-glucuronide
+M288T583	Estriol
+M302T660	2-Methoxyestradiol
+M465T472	Estriol-16-Glucuronide
+M461T344	2-Methoxy-estradiol-17b 3-glucuronide
+M383T408	2-Methoxyestradiol-17beta 3-sulfate
+M352T339	Lipoxin A4
+M261T222	6-Tuliposide A
+M264T388	5-Hydroxy-1-(4-hydroxyphenyl)-3-decanone
+M315T421	Nororientaline
+M364T101	Guanosine 3'-phosphate
+M90T34	Putrescine
+M90T663	L-Alanine
+M90T704	beta-Alanine
+M90T590	Sarcosine
+M102T100	Triethylamine
+M104T87_3	gamma-Aminobutyric acid
+M104T47	Dimethylglycine
+M104T651	2-Aminoisobutyric acid
+M105T73_2	Malonate
+M105T126_2	(R)-3-Hydroxybutyric acid
+M110T34	Hydroquinone
+M111T770	Catechol
+M111T817	Pyrrole-2-carboxylic acid
+M130T196	Pyroglutamic acid
+M112T298	Cytosine
+M115T60	Dihydrouracil
+M116T96_4	L-Proline
+M118T392	Indole
+M120T317_2	2-Hydroxyphenethylamine
+M120T388	Tyramine
+M124T135_1	Nicotinic acid
+M124T840	Picolinic acid
+M126T39	Taurine
+M127T324	Thymine
+M130T141_2	Pipecolic acid
+M132T226	L-Leucine
+M132T161_1	L-Isoleucine
+M134T87_1	L-Aspartic acid
+M136T167	Adenine
+M156T85_1	L-Histidine
+M139T100	Urocanic acid
+M141T32	Pelargonic acid
+M144T423	Tryptophanol
+M145T835	Spermidine
+M148T90_3	L-Glutamic acid
+M150T126	L-Methionine
+M155T65	2,3-Butanediol
+M157T36	Uracil 5-carboxylate
+M156T787	3-Indoleacetonitrile
+M175T86_2	L-Arginine
+M158T35_1	4,5-Dihydroorotic acid
+M162T91_2	L-Carnitine
+M182T153_3	L-Tyrosine
+M170T65	Norepinephrine
+M170T89	Pyridoxine
+M188T492	Azelaic acid
+M172T64	3-Dehydroshikimate
+M190T149	N-Acetylglutamic acid
+M174T505	N-Acetylleucine
+M176T90_2	Citrulline
+M181T758	D-Fructose
+M181T828	myo-Inositol
+M181T815	D-Galactose
+M183T69	Mannitol
+M200T35_2	Dodecanoic acid
+M185T34	3,4-Dihydroxymandelic acid
+M203T69	Spermine
+M208T536	N-Acetyl-L-phenylalanine
+M227T704_2	Deoxycytidine
+M220T347	Pantothenic acid
+M241T783	Anserine
+M226T730	Porphobilinogen
+M228T798	Deoxyuridine
+M238T364	Biopterin
+M242T814	Lumichrome
+M243T82	Cytidine
+M248T531	Pyridoxal 5'-phosphate
+M254T768	Palmitoleic acid
+M256T738	Palmitic acid
+M271T735	Baicalein
+M295T82	Indican
+M282T827	Oleic acid
+M301T739	Sphinganine
+M273T766_2	Androsterone
+M324T100_1	CMP
+M308T131	dCMP
+M308T117	Glutathione
+M320T818	Pregnanediol
+M343T750_2	Sucrose
+M346T776	Cyclic GMP
+M387T805	Cholesterol
+M397T811	Ergocalciferol
+M398T804	S-Adenosylmethionine
+M409T779	Allocholic acid
+M415T828	Sodium deoxycholate
+M432T779	Genistin
+M432T719	Glycochenodeoxycholic acid
+M100T34_2	Cyclohexylamine
+M104T640	L-alpha-Aminobutyric acid
+M131T85	Agmatine
+M114T415	Epsilon-caprolactam
+M137T566	Phenelzine
+M120T261	L-Allothreonine
+M130T295	Pyrrolidonecarboxylic acid
+M136T153_2	Dopamine
+M147T153	4-Hydroxycinnamic acid
+M175T160	L-Theanine
+M206T556	Indolelactic acid
+M189T134_2	N6-Acetyl-L-lysine
+M209T677	Pilocarpine
+M227T232	Carnosine
+M231T559	Dodecanedioic acid
+M235T91	Procainamide
+M237T454	Procaine
+M233T548	Nalidixic Acid
+M255T173	7,8-Dihydroneopterin
+M273T581	Sotalol
+M268T167	Adenosine
+M269T203	Inosine
+M270T584	Galantamine
+M290T819	Dyclonine
+M292T714	Terbinafine
+M279T676	Exemestane
+M282T785	Sphingosine
+M285T658	Diazepam
+M286T573	Abacavir
+M295T709	13-L-Hydroperoxylinoleic acid
+M300T800	3-Dehydrosphinganine
+M313T755	9(S)-HPODE
+M319T714	Brompheniramine
+M325T131	UMP
+M330T137	Cyclic AMP
+M334T637	Pirenzepine
+M348T163	AMP
+M402T816	Delta-Tocopherol
+M430T781	Mifepristone
+M90T275	Alanine
+M150T243	Racemethionine
+M278T814	Venlafaxine
+M311T135	Domoic acid
+M325T714	Monocrotaline
+M118T224	5-Aminopentanoic acid
+M133T76	Ornithine
+M137T136_2	Hypoxanthine
+M290T141	Ophthalmate
+M851T811_2	3-Methylcrotonyl-CoA
+M192T89	Citric acid
+M384T349	S-Adenosylhomocysteine
+M83T630	Fomepizole
+M86T229	Piperidine
+M104T786	Choline
+M152T200	Guanine
+M169T80_2	Pyridoxamine
+M189T266	Glycylleucine
+M218T75_1	beta-Alanyl-L-lysine
+M115T76	L-Prolinamide
+M166T90	L-Methionine S-oxide
+M164T633	Etilefrine
+M165T153	3,4-Dihydroxyphenylpropanoate
+M219T537	N-Acetylserotonin
+M241T426	Pirbuterol
+M250T774	Alprenolol
+M251T818	OPEO
+M276T95	Saccharopine
+M265T90	Phenylacetylglutamine
+M279T760	Sulfamethazine
+M313T730	Ethylmorphine
+M337T80	Vincamine
+M372T795	Biocytin
+M105T367	2-Phenylethanol
+M112T76	Histamine
+M114T816_2	epsilon-Caprolactone
+M114T154	1-Pyrroline-2-carboxylic acid
+M115T32	L-3-Cyanoalanine
+M118T717	L-2,4-diaminobutyric acid
+M128T196	(R)-5,6-Dihydrothymine
+M128T662	D-1-Piperideine-2-carboxylic acid
+M128T564	(S)-2,3,4,5-tetrahydropyridine-2-carboxylate
+M130T673	1-Pyrroline-4-hydroxy-2-carboxylate
+M132T738	Beta-Leucine
+M132T791	N-Carbamoylputrescine
+M133T126	5,6-Dihydro-5-fluorouracil
+M140T42	Acetylphosphate
+M141T100	4,5,6,7-Tetrahydroisoxazolo(5,4-c)pyridin-3-ol
+M145T35	4-Oxoglutaramate
+M146T392	2-Dehydropantoate
+M148T130	O-Acetylserine
+M153T68	3-Sulfinylpyruvic acid
+M155T86	Imidazol-5-yl-pyruvate
+M161T366	4-Acetamido-2-aminobutanoic acid
+M171T73	D-Glyceraldehyde 3-phosphate
+M175T103	N-Acetylornithine
+M176T93	N-Acetyl-L-aspartic acid
+M181T504	Dulcin
+M182T147	Hydroxyphenyllactic acid
+M187T335	5-Guanidino-3-methyl-2-oxopentanoate
+M188T85	N8-Acetylspermidine
+M195T832	3-Methyl-L-tyrosine
+M198T759	Selenomethionine
+M199T239	gamma-Glutamyl-beta-aminopropiononitrile
+M218T98	D-Lysopine
+M204T518	N5-(L-1-Carboxyethyl)-L-ornithine
+M209T312	L-Kynurenine
+M212T146	Propazine
+M230T530	Ergothioneine
+M231T157	N2-Succinyl-L-glutamic acid 5-semialdehyde
+M215T607	Harmaline
+M221T160	Pyrimidodiazepine
+M245T138_1	Uridine
+M227T727	Biotin
+M228T748	Traumatic Acid
+M245T302	beta-Alanyl-L-arginine
+M246T392	N-Acetyl-D-tryptophan
+M233T100	N(omega)-Nitro-L-arginine methyl ester
+M234T102	Lenacil
+M237T177	N-Acetyl-D-glucosaminate
+M239T177	4a-Carbinolamine tetrahydrobiopterin
+M258T88	Glycerophosphocholine
+M243T89	Ethoprophos
+M259T156	Linatine
+M244T134	gamma-Glutamyl-beta-cyanoalanine
+M247T96	D-Octopine
+M247T533	N-(4-Coumaroyl)-L-homoserine lactone
+M251T297	5'-Deoxyadenosine
+M255T727	Anhydroglycinol
+M257T75	(2R,3R)-3-Methylornithinyl-N6-lysine
+M275T421_1	epsilon-(gamma-L-Glutamyl)-L-lysine
+M276T190	4-Hydroxycinnamoylagmatine
+M261T92	Glucose 6-phosphate
+M281T310_2	Cyclopeptine
+M265T514	Subaphylline
+M264T652	Cycloheximide
+M265T745	Tetracaine
+M274T336	(2R,3R)-3-Methylglutamyl-5-semialdehyde-N6-lysine
+M281T427	1-(3,4-Dihydroxyphenyl)-5-hydroxy-3-decanone
+M282T141	9-Riburonosyladenine
+M284T335	Brevianamide F
+M286T427	2-Hydroxyestrone
+M304T369	4'-Oxonebramine
+M291T96	Argininosuccinic acid
+M292T94	N-Acetylneuraminic acid
+M292T800	Cyclopentolate
+M295T424	Aspartame
+M296T87	Dehypoxanthine futalosine
+M297T145	7,8-Dihydropteroic acid
+M298T803	3-Ketosphingosine
+M309T660	Bilobalide A
+M310T94	N-Acetyl-a-neuraminic acid
+M329T458	(S)-Reticuline
+M337T87	Kyotorphin
+M321T823	13(Z)-Docosenoic Acid
+M322T310_3	2'-Deamino-2'-hydroxy-6'-dehydroparomamine
+M323T79	2'-Deamino-2'-hydroxyneamine
+M346T430	L-Alanyl-gamma-D-glutamyl-L-lysine
+M336T524	Isopentenyl adenosine
+M336T569	Senecionine
+M346T151	Guanosine 2',3'-cyclic phosphate 
+M353T640	Prostaglandin I2
+M399T834	Palmitoyl-L-carnitine
+M414T719	14alpha-Hydroxy-5beta-cholest-7-ene-3,6-dione
+M574T303_1	Biotinyl-5'-AMP
+M305T101_2	Pseudouridine 5'-phosphate
+M158T146	5-Acetamidovalerate
+M271T546	4-(3-Methylbut-2-enyl)-L-tryptophan
+M286T222	Androstenedione
+M604T65_1	Guanosine diphosphate mannose
+M129T228	Ketoleucine
+M116T254	L-Aspartate-semialdehyde
+M111T161	Uracil
+M117T711_1	Methylmalonic acid
+M118T832	L-Homoserine
+M101T40	2-Ketobutyric acid
+M104T85	L-Serine
+M130T99	cis-4-Hydroxy-D-proline
+M131T126	Glutaric acid
+M116T103_1	Guanidinoacetate
+M116T668	L-Valine
+M117T802	Betaine
+M118T40	L-Threonine
+M119T85	3-Methylthiopropionic acid
+M121T490	Phenylethylamine
+M121T210	Erythritol
+M145T88	L-Glutamine
+M131T248	3-Methylindole
+M133T74_2	L-Malic acid
+M135T778	Phenyl acetate
+M137T299	3-Hydroxybenzoic acid
+M159T35	Oxoadipic acid
+M142T54	Aminoadipic acid
+M145T87	Oxoglutaric acid
+M145T126	L-Lysine
+M167T96	Uric acid
+M175T793	Guanidinosuccinic acid
+M177T97	Gluconolactone
+M190T372	5-Hydroxyindoleacetic acid
+M191T82	Quinate
+M202T833	Indolepyruvate
+M203T516	L-Tryptophan
+M213T297	Dethiobiotin
+M223T765	Thymidine
+M223T775	Methyl jasmonate
+M266T245	Deoxyguanosine
+M282T175	Guanosine
+M283T835	Stearic acid
+M269T833	Dehydroepiandrosterone
+M271T835_2	17a-Estradiol
+M289T94	Epiandrosterone
+M309T791	Ribose 1,5-bisphosphate
+M297T793	5'-Methylthioadenosine
+M339T828	Fructose 1,6-bisphosphate
+M341T95	Trehalose
+M375T446	Riboflavin
+M391T836	Deoxycholic acid
+M117T126	Succinic acid
+M129T291	Itaconic acid
+M165T463	L-3-Phenyllactic acid
+M182T96_1	4-Pyridoxic acid
+M174T536	Indoleacetic acid
+M180T239	Beta-Tyrosine
+M200T83	Cysteine-S-sulfate
+M241T819_1	Equol
+M255T726	Isoliquiritigenin
+M257T766	Alternariol
+M283T807	Xanthosine
+M339T308	Topiramate
+M321T101_1	dTMP
+M325T805	11-Dehydrocorticosterone
+M362T101	GMP
+M304T101	2',3'-Cyclic CMP
+M129T329	4-Acetylbutyrate
+M130T657	N-Acetyl-beta-alanine
+M131T218	6-Hydroxyhexanoic acid
+M171T78	Beta-Glycerophosphoric acid
+M173T74	trans-Aconitate
+M184T380	Ecgonine
+M243T101	Pseudouridine
+M256T99	N2-gamma-Glutamylglutamine
+M275T71	6-Phosphogluconic acid
+M277T711	Dibutyl phthalate
+M324T82	N-Glycolylneuraminic acid
+M421T76	Trehalose 6-phosphate
+M147T98	D-2-Hydroxyglutaric acid
+M164T265_3	L-Phenylalanine
+M279T90	Sulfamethoxypyridazine

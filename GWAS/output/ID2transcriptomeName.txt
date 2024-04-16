@@ -1,0 +1,2430 @@
+ID	TranscriptomeName
+F6X01_RS00005	chromosomal replication initiator protein DnaA
+F6X01_RS00010	DNA polymerase III subunit beta
+F6X01_RS00015	DUF6226 family protein
+F6X01_RS00020	DNA replication/repair protein RecF
+F6X01_RS00025	DciA family protein
+F6X01_RS00030	ABC transporter ATP-binding protein/permease
+F6X01_RS00040	hypothetical protein
+F6X01_RS00045	mannose-6-phosphate isomerase, class I
+F6X01_RS00050	DNA topoisomerase (ATP-hydrolyzing) subunit B
+F6X01_RS00055	DNA gyrase subunit A
+F6X01_RS00060	DUF3566 domain-containing protein
+F6X01_RS00065	L-lactate dehydrogenase
+F6X01_RS00070	LacI family transcriptional regulator
+F6X01_RS00075	sugar ABC transporter ATP-binding protein
+F6X01_RS00080	ABC transporter permease
+F6X01_RS00085	substrate-binding domain-containing protein
+F6X01_RS00090	ribokinase
+F6X01_RS00095	D-ribose pyranase
+F6X01_RS00100	tRNA-Ile
+F6X01_RS00105	hypothetical protein
+F6X01_RS00110	PTS sugar transporter subunit IIA
+F6X01_RS00115	PTS galactitol transporter subunit IIC
+F6X01_RS00120	PTS sugar transporter subunit IIB
+F6X01_RS00125	hypothetical protein
+F6X01_RS00130	HTH domain-containing protein
+F6X01_RS00135	PTS sugar transporter subunit IIA
+F6X01_RS00155	metal-dependent amidase/aminoacylase/carboxypeptidase
+F6X01_RS00160	hypothetical protein
+F6X01_RS00165	HAD-IA family hydrolase
+F6X01_RS00170	DeoR/GlpR family DNA-binding transcription regulator
+F6X01_RS00175	hypothetical protein
+F6X01_RS00180	hypothetical protein
+F6X01_RS00185	hypothetical protein
+F6X01_RS00190	histidinol-phosphate transaminase
+F6X01_RS00195	patatin family protein
+F6X01_RS00200	GNAT family N-acetyltransferase
+F6X01_RS00205	hypothetical protein
+F6X01_RS00215	SAF domain-containing protein
+F6X01_RS00220	hypothetical protein
+F6X01_RS00225	CpaF/VirB11 family protein
+F6X01_RS00230	type II secretion system F family protein
+F6X01_RS00235	hypothetical protein
+F6X01_RS00240	hypothetical protein
+F6X01_RS00245	pilus assembly protein
+F6X01_RS00250	membrane protein
+F6X01_RS00255	LysM peptidoglycan-binding domain-containing protein
+F6X01_RS00260	MFS transporter
+F6X01_RS00265	formate--tetrahydrofolate ligase
+F6X01_RS00270	hypothetical protein
+F6X01_RS00275	hypothetical protein
+F6X01_RS00280	hypothetical protein
+F6X01_RS00285	FtsX-like permease family protein
+F6X01_RS00290	ABC transporter ATP-binding protein
+F6X01_RS00300	response regulator transcription factor
+F6X01_RS00315	carbohydrate ABC transporter permease
+F6X01_RS00320	sugar ABC transporter permease
+F6X01_RS00325	extracellular solute-binding protein
+F6X01_RS00340	DeoR/GlpR family DNA-binding transcription regulator
+F6X01_RS00345	6-phospho-beta-glucosidase
+F6X01_RS00350	alpha-mannosidase
+F6X01_RS00355	alkaline phosphatase family protein
+F6X01_RS00360	HAD family phosphatase
+F6X01_RS00365	glycoside hydrolase family 125 protein
+F6X01_RS00370	beta-N-acetylhexosaminidase
+F6X01_RS00375	carbohydrate kinase family protein
+F6X01_RS00380	sensor histidine kinase
+F6X01_RS00385	UDP-glucose 4-epimerase GalE
+F6X01_RS00390	TetR/AcrR family transcriptional regulator
+F6X01_RS00395	MMPL family transporter
+F6X01_RS00400	YhgE/Pip family protein
+F6X01_RS00405	FtsX-like permease family protein
+F6X01_RS00410	ABC transporter ATP-binding protein
+F6X01_RS00415	class I SAM-dependent methyltransferase
+F6X01_RS00420	ABC transporter substrate-binding protein
+F6X01_RS00425	iron ABC transporter permease
+F6X01_RS00430	ABC transporter ATP-binding protein
+F6X01_RS00435	NAD-dependent succinate-semialdehyde dehydrogenase
+F6X01_RS00440	chloride channel protein
+F6X01_RS00445	glycogen/starch/alpha-glucan phosphorylase
+F6X01_RS00450	hypothetical protein
+F6X01_RS00455	membrane protein
+F6X01_RS00460	1,3-beta-galactosyl-N-acetylhexosamine phosphorylase
+F6X01_RS00465	ROK family transcriptional regulator
+F6X01_RS00470	carbohydrate ABC transporter substrate-binding protein
+F6X01_RS00475	sugar ABC transporter permease
+F6X01_RS00480	carbohydrate ABC transporter permease
+F6X01_RS00485	substrate-binding domain-containing protein
+F6X01_RS00495	hypothetical protein
+F6X01_RS00500	6-phosphofructokinase
+F6X01_RS00505	ArsR family transcriptional regulator
+F6X01_RS00510	multicopper oxidase domain-containing protein
+F6X01_RS00515	hypothetical protein
+F6X01_RS00525	aspartate ammonia-lyase
+F6X01_RS00530	anaerobic C4-dicarboxylate transporter
+F6X01_RS00535	N-acetyltransferase
+F6X01_RS00540	catalase
+F6X01_RS00545	ABC transporter ATP-binding protein/permease
+F6X01_RS00550	ABC transporter ATP-binding protein/permease
+F6X01_RS00555	ATP-binding protein
+F6X01_RS00560	magnesium chelatase subunit D family protein
+F6X01_RS00565	cobaltochelatase subunit CobN
+F6X01_RS00570	radical SAM protein
+F6X01_RS00575	ABC transporter ATP-binding protein
+F6X01_RS00580	iron ABC transporter permease
+F6X01_RS00585	ABC transporter substrate-binding protein
+F6X01_RS00590	ABC transporter substrate-binding protein
+F6X01_RS00600	hypothetical protein
+F6X01_RS00605	oleate hydratase
+F6X01_RS00610	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+F6X01_RS00620	hypothetical protein
+F6X01_RS00625	thiamine phosphate synthase
+F6X01_RS00630	DUF559 domain-containing protein
+F6X01_RS00635	hypothetical protein
+F6X01_RS00640	potassium-transporting ATPase subunit F
+F6X01_RS00645	potassium-transporting ATPase subunit KdpA
+F6X01_RS00650	potassium-transporting ATPase subunit KdpB
+F6X01_RS00655	potassium-transporting ATPase subunit KdpC
+F6X01_RS00660	DUF4118 domain-containing protein
+F6X01_RS00665	response regulator transcription factor
+F6X01_RS00670	EXLDI protein
+F6X01_RS00680	tRNA-Ala
+F6X01_RS00685	insulinase family protein
+F6X01_RS00700	DUF5318 family protein
+F6X01_RS00705	penicillin-binding protein
+F6X01_RS00710	DUF2029 domain-containing protein
+F6X01_RS00715	membrane protein
+F6X01_RS00720	O-antigen ligase family protein
+F6X01_RS00725	glycosyltransferase
+F6X01_RS00730	glycosyltransferase
+F6X01_RS00735	O-antigen ligase family protein
+F6X01_RS00740	chain-length determining protein
+F6X01_RS00745	acetyltransferase
+F6X01_RS00750	DegT/DnrJ/EryC1/StrS family aminotransferase
+F6X01_RS00755	Gfo/Idh/MocA family oxidoreductase
+F6X01_RS00760	O-antigen ligase family protein
+F6X01_RS00765	oligopeptide:H+ symporter
+F6X01_RS00770	FAD-dependent oxidoreductase
+F6X01_RS00775	SDR family oxidoreductase
+F6X01_RS00780	HPr family phosphocarrier protein
+F6X01_RS00785	fructose-specific PTS transporter subunit EIIC
+F6X01_RS00790	1-phosphofructokinase family hexose kinase
+F6X01_RS00795	hypothetical protein
+F6X01_RS00800	DeoR/GlpR family DNA-binding transcription regulator
+F6X01_RS00805	nucleotide sugar dehydrogenase
+F6X01_RS00810	O-antigen ligase family protein
+F6X01_RS00815	glycosyltransferase
+F6X01_RS00820	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)
+F6X01_RS00825	glycosyltransferase
+F6X01_RS00830	hypothetical protein
+F6X01_RS00835	hypothetical protein
+F6X01_RS00840	hypothetical protein
+F6X01_RS00845	NAD(P)/FAD-dependent oxidoreductase
+F6X01_RS00850	NUDIX hydrolase
+F6X01_RS00855	ATP-dependent helicase HrpB
+F6X01_RS00860	ECF transporter S component
+F6X01_RS00865	ATP-binding cassette domain-containing protein
+F6X01_RS00870	glycosyltransferase family 4 protein
+F6X01_RS00875	DoxX family membrane protein
+F6X01_RS00880	hypothetical protein
+F6X01_RS00885	dihydroorotate dehydrogenase-like protein
+F6X01_RS00890	pyruvate:ferredoxin (flavodoxin) oxidoreductase
+F6X01_RS00895	NAD(P)-binding protein
+F6X01_RS00900	thiamine-binding protein
+F6X01_RS00905	FCD domain-containing protein
+F6X01_RS00910	L-lactate permease
+F6X01_RS00915	(Fe-S)-binding protein
+F6X01_RS00920	LutB/LldF family L-lactate oxidation iron-sulfur protein
+F6X01_RS00925	lactate utilization protein C
+F6X01_RS00930	ATP-binding cassette domain-containing protein
+F6X01_RS00935	hypothetical protein
+F6X01_RS00940	hypothetical protein
+F6X01_RS00945	thiol reductant ABC exporter subunit CydC
+F6X01_RS00950	thiol reductant ABC exporter subunit CydD
+F6X01_RS00955	cytochrome d ubiquinol oxidase subunit II
+F6X01_RS00960	cytochrome ubiquinol oxidase subunit I
+F6X01_RS00965	APC family permease
+F6X01_RS00970	ABC transporter ATP-binding protein/permease
+F6X01_RS00980	ABC transporter ATP-binding protein/permease
+F6X01_RS00990	XRE family transcriptional regulator
+F6X01_RS01000	lysine--tRNA ligase
+F6X01_RS01005	cell division protein CrgA
+F6X01_RS01010	DUF881 domain-containing protein
+F6X01_RS01015	Stk1 family PASTA domain-containing Ser/Thr kinase
+F6X01_RS01020	cell division protein FtsI
+F6X01_RS01025	FtsW/RodA/SpoVE family cell cycle protein
+F6X01_RS01030	protein phosphatase 2C domain-containing protein
+F6X01_RS01035	FHA domain-containing protein
+F6X01_RS01040	DUF3662 domain-containing protein
+F6X01_RS01045	hypothetical protein
+F6X01_RS01050	phosphotransferase
+F6X01_RS01060	hypothetical protein
+F6X01_RS01065	hypothetical protein
+F6X01_RS01070	type IV secretion protein Rhs
+F6X01_RS01075	RHS repeat protein
+F6X01_RS01080	hypothetical protein
+F6X01_RS01085	hypothetical protein
+F6X01_RS01095	hypothetical protein
+F6X01_RS01115	hypothetical protein
+F6X01_RS01130	hypothetical protein
+F6X01_RS01135	RHS repeat protein
+F6X01_RS01140	RHS repeat protein
+F6X01_RS01150	hypothetical protein
+F6X01_RS01155	tRNA-Ser
+F6X01_RS01160	RNA-binding S4 domain-containing protein
+F6X01_RS01165	signal recognition particle sRNA small type
+F6X01_RS01170	hypothetical protein
+F6X01_RS01175	DNA polymerase III subunit gamma and tau
+F6X01_RS01180	YbaB/EbfC family nucleoid-associated protein
+F6X01_RS01185	recombination mediator RecR
+F6X01_RS01190	PadR family transcriptional regulator
+F6X01_RS01195	ABC transporter ATP-binding protein
+F6X01_RS01200	ABC transporter permease
+F6X01_RS01205	threonine/serine exporter family protein
+F6X01_RS01210	Cof-type HAD-IIB family hydrolase
+F6X01_RS01215	Cof-type HAD-IIB family hydrolase
+F6X01_RS01235	hypothetical protein
+F6X01_RS01240	hypothetical protein
+F6X01_RS01245	isoleucine--tRNA ligase
+F6X01_RS01250	L-serine ammonia-lyase, iron-sulfur-dependent, subunit alpha
+F6X01_RS01255	amino acid permease
+F6X01_RS01260	hypothetical protein
+F6X01_RS01265	Gfo/Idh/MocA family oxidoreductase
+F6X01_RS01270	WhiB family transcriptional regulator
+F6X01_RS01275	DUF4177 domain-containing protein
+F6X01_RS01280	RidA family protein
+F6X01_RS01285	Crp/Fnr family transcriptional regulator
+F6X01_RS01290	endonuclease III
+F6X01_RS01295	TlpA family protein disulfide reductase
+F6X01_RS01300	CoA pyrophosphatase
+F6X01_RS01305	phage holin family protein
+F6X01_RS01310	Na+/H+ antiporter NhaA
+F6X01_RS01315	class I SAM-dependent methyltransferase
+F6X01_RS01320	CpaE-like family protein
+F6X01_RS01325	TadA family conjugal transfer-associated ATPase
+F6X01_RS01330	hypothetical protein
+F6X01_RS01340	type II secretion system F family protein
+F6X01_RS01345	DUF4244 domain-containing protein
+F6X01_RS01350	hypothetical protein
+F6X01_RS01355	flp pilus-assembly TadE/G-like family protein
+F6X01_RS01360	hypothetical protein
+F6X01_RS01365	DEAD/DEAH box helicase
+F6X01_RS01370	methyltransferase
+F6X01_RS01375	DUF2249 domain-containing protein
+F6X01_RS01380	type I DNA topoisomerase
+F6X01_RS01385	hypothetical protein
+F6X01_RS01390	dTMP kinase
+F6X01_RS01395	DNA polymerase III subunit delta
+F6X01_RS01400	DoxX family protein
+F6X01_RS01405	hypothetical protein
+F6X01_RS01410	alpha/beta hydrolase
+F6X01_RS01415	hypothetical protein
+F6X01_RS01420	DUF885 domain-containing protein
+F6X01_RS01425	tRNA-Thr
+F6X01_RS01430	FAD-dependent oxidoreductase
+F6X01_RS01435	hypothetical protein
+F6X01_RS01440	histidine phosphatase family protein
+F6X01_RS01445	acetylxylan esterase
+F6X01_RS01450	hypothetical protein
+F6X01_RS01455	inorganic diphosphatase
+F6X01_RS01460	D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+F6X01_RS01465	tRNA lysidine(34) synthetase TilS
+F6X01_RS01470	hypoxanthine phosphoribosyltransferase
+F6X01_RS01475	ATP-dependent zinc metalloprotease FtsH
+F6X01_RS01480	GTP cyclohydrolase I FolE
+F6X01_RS01485	hypothetical protein
+F6X01_RS01490	OmpA family protein
+F6X01_RS01495	hypothetical protein
+F6X01_RS01500	hypothetical protein
+F6X01_RS01505	hypothetical protein
+F6X01_RS01510	hypothetical protein
+F6X01_RS01515	hypothetical protein
+F6X01_RS01520	dihydropteroate synthase
+F6X01_RS01525	dihydroneopterin aldolase
+F6X01_RS01530	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+F6X01_RS01535	DUF3180 domain-containing protein
+F6X01_RS01540	hypothetical protein
+F6X01_RS01545	NADH-quinone oxidoreductase subunit D
+F6X01_RS01550	Lsr2 family protein
+F6X01_RS01560	ATP-dependent Clp protease ATP-binding subunit
+F6X01_RS01565	DUF2891 domain-containing protein
+F6X01_RS01570	DUF979 domain-containing protein
+F6X01_RS01575	DUF969 domain-containing protein
+F6X01_RS01580	LamB/YcsF family protein
+F6X01_RS01585	allophanate hydrolase subunit 1
+F6X01_RS01590	biotin-dependent carboxyltransferase family protein
+F6X01_RS01595	DHA2 family efflux MFS transporter permease subunit
+F6X01_RS01600	TIGR01777 family oxidoreductase
+F6X01_RS01605	rhomboid family intramembrane serine protease
+F6X01_RS01610	hypothetical protein
+F6X01_RS01615	response regulator transcription factor
+F6X01_RS01620	histidine kinase
+F6X01_RS01625	FxLYD domain-containing protein
+F6X01_RS01630	PRD domain-containing protein
+F6X01_RS01635	PTS glucose transporter subunit IIA
+F6X01_RS01640	PTS transporter subunit EIIC
+F6X01_RS01645	N-acetylmannosamine-6-phosphate 2-epimerase
+F6X01_RS01650	hypothetical protein
+F6X01_RS01660	A/G-specific adenine glycosylase
+F6X01_RS01665	glutamate-1-semialdehyde 2,1-aminomutase
+F6X01_RS01670	porphobilinogen synthase
+F6X01_RS01675	uroporphyrinogen-III synthase
+F6X01_RS01680	hydroxymethylbilane synthase
+F6X01_RS01685	FAD-dependent oxidoreductase
+F6X01_RS01690	uroporphyrinogen decarboxylase
+F6X01_RS01695	hypothetical protein
+F6X01_RS01700	ferrochelatase
+F6X01_RS01710	hypothetical protein
+F6X01_RS01715	DNA integrity scanning diadenylate cyclase DisA
+F6X01_RS01720	DNA repair protein RadA
+F6X01_RS01725	NAD-dependent malic enzyme
+F6X01_RS01730	VOC family protein
+F6X01_RS01735	sugar phosphate isomerase/epimerase
+F6X01_RS01740	proline dehydrogenase family protein
+F6X01_RS01745	CPBP family intramembrane metalloprotease
+F6X01_RS01750	aspartate-semialdehyde dehydrogenase
+F6X01_RS01755	pyrroline-5-carboxylate reductase
+F6X01_RS01760	AURKAIP1/COX24 domain-containing protein
+F6X01_RS01765	glutaredoxin family protein
+F6X01_RS01770	uroporphyrinogen-III synthase
+F6X01_RS01775	histidine phosphatase family protein
+F6X01_RS01780	TlpA family protein disulfide reductase
+F6X01_RS01785	cytochrome C biogenesis protein CcdA
+F6X01_RS01790	cytochrome c biogenesis protein ResB
+F6X01_RS01795	c-type cytochrome biogenesis protein CcsB
+F6X01_RS01800	GerMN domain-containing protein
+F6X01_RS01805	SDR family oxidoreductase
+F6X01_RS01810	hypothetical protein
+F6X01_RS01820	DUF5134 domain-containing protein
+F6X01_RS01825	mycothione reductase
+F6X01_RS01830	ABC transporter substrate-binding protein
+F6X01_RS01835	hypothetical protein
+F6X01_RS01840	ABC transporter ATP-binding protein
+F6X01_RS01845	iron ABC transporter permease
+F6X01_RS01850	siderophore-interacting protein
+F6X01_RS01855	phosphate ABC transporter ATP-binding protein PstB
+F6X01_RS01860	phosphate ABC transporter permease PstA
+F6X01_RS01865	phosphate ABC transporter permease subunit PstC
+F6X01_RS01870	phosphate ABC transporter substrate-binding protein PstS
+F6X01_RS01880	NUDIX hydrolase
+F6X01_RS01885	RNA degradosome polyphosphate kinase
+F6X01_RS01890	response regulator transcription factor
+F6X01_RS01895	hypothetical protein
+F6X01_RS01900	D-aminoacyl-tRNA deacylase
+F6X01_RS01905	FABP family protein
+F6X01_RS01910	folate-binding protein YgfZ
+F6X01_RS01915	sugar transferase
+F6X01_RS01920	SDR family oxidoreductase
+F6X01_RS01925	phosphoenolpyruvate--protein phosphotransferase
+F6X01_RS01930	HPr family phosphocarrier protein
+F6X01_RS01935	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+F6X01_RS01940	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+F6X01_RS01945	PTS glucitol/sorbitol transporter subunit IIA
+F6X01_RS01950	PTS sugar transporter subunit IIB
+F6X01_RS01955	CarD family transcriptional regulator
+F6X01_RS01960	hypothetical protein
+F6X01_RS01965	response regulator transcription factor
+F6X01_RS01970	ATP-binding protein
+F6X01_RS01975	phosphate signaling complex protein PhoU
+F6X01_RS01980	hypothetical protein
+F6X01_RS01985	polysaccharide deacetylase
+F6X01_RS01990	phosphoglyceromutase
+F6X01_RS01995	PTS sugar transporter subunit IIA
+F6X01_RS02000	PTS sugar transporter subunit IIB
+F6X01_RS02005	asparaginase
+F6X01_RS02010	amino acid permease
+F6X01_RS02015	glycine hydroxymethyltransferase
+F6X01_RS02020	sugar kinase
+F6X01_RS02025	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase
+F6X01_RS02035	polysaccharide lyase 8 family protein
+F6X01_RS02070	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB
+F6X01_RS02075	cysteine--tRNA ligase
+F6X01_RS02080	hypothetical protein
+F6X01_RS02085	DUF4032 domain-containing protein
+F6X01_RS02090	Asp23/Gls24 family envelope stress response protein
+F6X01_RS02095	DUF2273 domain-containing protein
+F6X01_RS02100	Asp23/Gls24 family envelope stress response protein
+F6X01_RS02105	DUF6286 domain-containing protein
+F6X01_RS02110	alkaline shock response membrane anchor protein AmaP
+F6X01_RS02115	RNA polymerase sigma factor
+F6X01_RS02120	hypothetical protein
+F6X01_RS02125	hypothetical protein
+F6X01_RS02130	sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC
+F6X01_RS02140	L-serine ammonia-lyase
+F6X01_RS02145	hypothetical protein
+F6X01_RS02150	ROK family protein
+F6X01_RS02155	sugar ABC transporter substrate-binding protein
+F6X01_RS02160	sugar ABC transporter permease
+F6X01_RS02165	carbohydrate ABC transporter permease
+F6X01_RS02170	L-threonine 3-dehydrogenase
+F6X01_RS02175	glycine C-acetyltransferase
+F6X01_RS02180	ABC transporter substrate-binding protein
+F6X01_RS02185	ABC transporter permease subunit
+F6X01_RS02190	ABC transporter permease subunit
+F6X01_RS02195	ATP-binding cassette domain-containing protein
+F6X01_RS02200	VTT domain-containing protein
+F6X01_RS02205	DUF488 family protein
+F6X01_RS02210	O-acetyl-ADP-ribose deacetylase
+F6X01_RS02215	NADP-dependent oxidoreductase
+F6X01_RS02220	ABC transporter ATP-binding protein
+F6X01_RS02225	ABC transporter permease
+F6X01_RS02230	histidine kinase
+F6X01_RS02235	response regulator transcription factor
+F6X01_RS02245	histidine phosphatase family protein
+F6X01_RS02250	adenosylcobinamide-phosphate synthase CbiB
+F6X01_RS02255	cobyric acid synthase
+F6X01_RS02260	precorrin-2 C(20)-methyltransferase
+F6X01_RS02265	precorrin-4 C(11)-methyltransferase
+F6X01_RS02270	precorrin-3B C(17)-methyltransferase
+F6X01_RS02275	cobalamin biosynthesis protein
+F6X01_RS02280	hypothetical protein
+F6X01_RS02290	iron ABC transporter permease
+F6X01_RS02295	ABC transporter ATP-binding protein
+F6X01_RS02300	ABC transporter substrate-binding protein
+F6X01_RS02305	ATP-binding protein
+F6X01_RS02310	precorrin-8X methylmutase
+F6X01_RS02315	energy-coupling factor ABC transporter permease
+F6X01_RS02320	energy-coupling factor ABC transporter substrate-binding protein
+F6X01_RS02325	cobalt ECF transporter T component CbiQ
+F6X01_RS02330	ATP-binding cassette domain-containing protein
+F6X01_RS02335	DUF4118 domain-containing protein
+F6X01_RS02340	precorrin-6Y C5,15-methyltransferase (decarboxylating) subunit CbiT
+F6X01_RS02345	cob(I)yrinic acid a,c-diamide adenosyltransferase
+F6X01_RS02350	cobyrinate a,c-diamide synthase
+F6X01_RS02355	uroporphyrinogen-III C-methyltransferase
+F6X01_RS02360	cobalt-precorrin-6A reductase
+F6X01_RS02365	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+F6X01_RS02370	adenosylcobinamide-GDP ribazoletransferase
+F6X01_RS02375	helical backbone metal receptor
+F6X01_RS02380	tRNA-Thr
+F6X01_RS02385	hypothetical protein
+F6X01_RS02390	hypothetical protein
+F6X01_RS02400	hypothetical protein
+F6X01_RS02405	PTS ascorbate transporter subunit IIC
+F6X01_RS02410	PTS sugar transporter subunit IIA
+F6X01_RS02425	hypothetical protein
+F6X01_RS02430	S-ribosylhomocysteine lyase
+F6X01_RS02435	mannose-6-phosphate isomerase, class I
+F6X01_RS02440	DUF3263 domain-containing protein
+F6X01_RS02450	chaperonin GroEL
+F6X01_RS02455	transaldolase
+F6X01_RS02460	GntR family transcriptional regulator
+F6X01_RS02470	5-dehydro-2-deoxygluconokinase
+F6X01_RS02475	deoxyribose-phosphate aldolase
+F6X01_RS02480	5-deoxy-glucuronate isomerase
+F6X01_RS02485	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing)
+F6X01_RS02490	hypothetical protein
+F6X01_RS02495	CoA-acylating methylmalonate-semialdehyde dehydrogenase
+F6X01_RS02500	LacI family transcriptional regulator
+F6X01_RS02505	Gfo/Idh/MocA family oxidoreductase
+F6X01_RS02510	sugar phosphate isomerase/epimerase
+F6X01_RS02515	sugar phosphate isomerase/epimerase
+F6X01_RS02520	Gfo/Idh/MocA family oxidoreductase
+F6X01_RS02525	MFS transporter
+F6X01_RS02530	hypothetical protein
+F6X01_RS02535	hypothetical protein
+F6X01_RS02540	sugar phosphate isomerase/epimerase
+F6X01_RS02545	inositol 2-dehydrogenase
+F6X01_RS02550	CPBP family intramembrane metalloprotease
+F6X01_RS02555	copper homeostasis protein CutC
+F6X01_RS02560	serine hydrolase
+F6X01_RS02565	DEAD/DEAH box helicase
+F6X01_RS02570	hypothetical protein
+F6X01_RS02575	helicase-associated domain-containing protein
+F6X01_RS02580	hypothetical protein
+F6X01_RS02585	hypothetical protein
+F6X01_RS02590	glucosamine-6-phosphate deaminase
+F6X01_RS02595	cold shock domain-containing protein
+F6X01_RS02600	DUF3027 domain-containing protein
+F6X01_RS02605	DUF2530 domain-containing protein
+F6X01_RS02610	NCS2 family permease
+F6X01_RS02615	hypothetical protein
+F6X01_RS02625	hypothetical protein
+F6X01_RS02630	phosphoserine transaminase
+F6X01_RS02635	N-acetylglucosamine-6-phosphate deacetylase
+F6X01_RS02640	metal-dependent transcriptional regulator
+F6X01_RS02645	hypothetical protein
+F6X01_RS02650	thioredoxin
+F6X01_RS02655	MFS transporter
+F6X01_RS02660	tRNA-Arg
+F6X01_RS02665	UTP--glucose-1-phosphate uridylyltransferase
+F6X01_RS02670	hypothetical protein
+F6X01_RS02675	large conductance mechanosensitive channel protein MscL
+F6X01_RS02680	SAF domain-containing protein
+F6X01_RS02685	FmdB family transcriptional regulator
+F6X01_RS02690	5-formyltetrahydrofolate cyclo-ligase
+F6X01_RS02695	molybdopterin biosynthesis protein
+F6X01_RS02700	GNAT family N-acetyltransferase
+F6X01_RS02705	hypothetical protein
+F6X01_RS02710	tRNA-Ala
+F6X01_RS02715	molecular chaperone TorD family protein
+F6X01_RS02720	cyclic pyranopterin monophosphate synthase MoaC
+F6X01_RS02725	molybdopterin molybdotransferase MoeA
+F6X01_RS02730	molybdenum cofactor biosynthesis protein MoaE
+F6X01_RS02735	MoaD/ThiS family protein
+F6X01_RS02740	GTP 3',8-cyclase MoaA
+F6X01_RS02745	helix-turn-helix domain-containing protein
+F6X01_RS02750	molybdate ABC transporter substrate-binding protein
+F6X01_RS02755	ABC transporter permease
+F6X01_RS02760	MarR family transcriptional regulator
+F6X01_RS02765	respiratory nitrate reductase subunit gamma
+F6X01_RS02770	nitrate reductase molybdenum cofactor assembly chaperone
+F6X01_RS02775	nitrate reductase subunit beta
+F6X01_RS02780	nitrate reductase subunit alpha
+F6X01_RS02785	NarK/NasA family nitrate transporter
+F6X01_RS02795	molybdenum cofactor guanylyltransferase
+F6X01_RS02800	MogA/MoaB family molybdenum cofactor biosynthesis protein
+F6X01_RS02805	DUF6457 domain-containing protein
+F6X01_RS02810	dimethyl sulfoxide reductase anchor subunit
+F6X01_RS02815	dimethylsulfoxide reductase subunit B
+F6X01_RS02820	molybdopterin-dependent oxidoreductase
+F6X01_RS02825	HesA/MoeB/ThiF family protein
+F6X01_RS02830	thiazole synthase
+F6X01_RS02835	sulfur carrier protein ThiS
+F6X01_RS02840	glycine oxidase ThiO
+F6X01_RS02845	hypothetical protein
+F6X01_RS02850	hypothetical protein
+F6X01_RS02855	nitrate reductase
+F6X01_RS02860	phospholipid carrier-dependent glycosyltransferase
+F6X01_RS02865	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+F6X01_RS02870	TatD family hydrolase
+F6X01_RS02875	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA
+F6X01_RS02880	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+F6X01_RS02885	MarR family transcriptional regulator
+F6X01_RS02890	TetR/AcrR family transcriptional regulator
+F6X01_RS02895	tRNA-Gln
+F6X01_RS02900	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU
+F6X01_RS02905	ribose-phosphate diphosphokinase
+F6X01_RS02910	hypothetical protein
+F6X01_RS02915	hypothetical protein
+F6X01_RS02920	hypothetical protein
+F6X01_RS02925	50S ribosomal protein L25/general stress protein Ctc
+F6X01_RS02930	aminoacyl-tRNA hydrolase
+F6X01_RS02945	hypothetical protein
+F6X01_RS02955	zinc-dependent alcohol dehydrogenase family protein
+F6X01_RS02960	PrsW family intramembrane metalloprotease
+F6X01_RS02965	transcription-repair coupling factor
+F6X01_RS02970	hypothetical protein
+F6X01_RS02975	MazG family protein
+F6X01_RS02980	hypothetical protein
+F6X01_RS02985	phosphopyruvate hydratase
+F6X01_RS02990	septum formation initiator family protein
+F6X01_RS02995	DUF501 domain-containing protein
+F6X01_RS03000	Ppx/GppA family phosphatase
+F6X01_RS03005	tRNA-Leu
+F6X01_RS03010	Bax inhibitor-1/YccA family protein
+F6X01_RS03015	NUDIX hydrolase
+F6X01_RS03020	hypothetical protein
+F6X01_RS03025	16S ribosomal RNA
+F6X01_RS03030	23S ribosomal RNA
+F6X01_RS03035	5S ribosomal RNA
+F6X01_RS03040	GNAT family N-acetyltransferase
+F6X01_RS03045	GtrA family protein
+F6X01_RS03050	oligopeptide transporter, OPT family
+F6X01_RS03055	aldo/keto reductase
+F6X01_RS03060	peptide-methionine (S)-S-oxide reductase MsrA
+F6X01_RS03065	sodium-dependent transporter
+F6X01_RS03070	methionine/alanine import family NSS transporter small subunit
+F6X01_RS03075	uracil-DNA glycosylase
+F6X01_RS03080	AI-2E family transporter
+F6X01_RS03090	transcription elongation factor GreA
+F6X01_RS03095	DUF4307 domain-containing protein
+F6X01_RS03100	hypothetical protein
+F6X01_RS03105	thioredoxin domain-containing protein
+F6X01_RS03110	polyprenyl diphosphate synthase
+F6X01_RS03115	hemolysin III family protein
+F6X01_RS03120	PhoH family protein
+F6X01_RS03125	DUF4245 domain-containing protein
+F6X01_RS03130	exodeoxyribonuclease VII small subunit
+F6X01_RS03135	exodeoxyribonuclease VII large subunit
+F6X01_RS03140	beta-propeller fold lactonase family protein
+F6X01_RS03145	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+F6X01_RS03150	DNA recombination protein RmuC
+F6X01_RS03155	M18 family aminopeptidase
+F6X01_RS03160	redox-regulated ATPase YchF
+F6X01_RS03165	HTH domain-containing protein
+F6X01_RS03170	hypothetical protein
+F6X01_RS03175	MFS transporter
+F6X01_RS03180	MarR family transcriptional regulator
+F6X01_RS03185	organic hydroperoxide resistance protein
+F6X01_RS03190	type 1 glutamine amidotransferase domain-containing protein
+F6X01_RS03200	basic amino acid/polyamine antiporter
+F6X01_RS03205	arginine deiminase
+F6X01_RS03210	ornithine carbamoyltransferase
+F6X01_RS03215	carbamate kinase
+F6X01_RS03220	ArgR family transcriptional regulator
+F6X01_RS03225	peptidyl-tRNA hydrolase
+F6X01_RS03230	amino acid-binding protein
+F6X01_RS03235	aldo/keto reductase
+F6X01_RS03240	thiol peroxidase
+F6X01_RS03245	amino acid permease
+F6X01_RS03250	alpha-amylase family protein
+F6X01_RS03255	nucleotide sugar dehydrogenase
+F6X01_RS03270	methylmalonyl-CoA mutase small subunit
+F6X01_RS03275	methylmalonyl-CoA mutase
+F6X01_RS03280	methylmalonyl Co-A mutase-associated GTPase MeaB
+F6X01_RS03285	S8 family serine peptidase
+F6X01_RS03290	RNA-binding S4 domain-containing protein
+F6X01_RS03295	amino acid ABC transporter ATP-binding protein
+F6X01_RS03300	amino acid ABC transporter permease
+F6X01_RS03305	hypothetical protein
+F6X01_RS03310	LacI family transcriptional regulator
+F6X01_RS03315	extracellular solute-binding protein
+F6X01_RS03320	sugar ABC transporter permease
+F6X01_RS03325	sugar ABC transporter permease
+F6X01_RS03330	carbohydrate ABC transporter permease
+F6X01_RS03335	alpha-L-fucosidase
+F6X01_RS03340	L-fucose isomerase
+F6X01_RS03345	fucose isomerase
+F6X01_RS03355	class II aldolase/adducin family protein
+F6X01_RS03360	hypothetical protein
+F6X01_RS03365	ABC transporter ATP-binding protein
+F6X01_RS03370	ABC transporter permease
+F6X01_RS03375	hypothetical protein
+F6X01_RS03380	metal ABC transporter permease
+F6X01_RS03385	ABC transporter ATP-binding protein
+F6X01_RS03390	zinc ABC transporter substrate-binding protein
+F6X01_RS03395	isochorismatase family protein
+F6X01_RS03400	cytosine permease
+F6X01_RS03405	bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase
+F6X01_RS03410	zinc-dependent dehydrogenase
+F6X01_RS03415	dihydroxyacetone kinase family protein
+F6X01_RS03420	phosphoribosyltransferase
+F6X01_RS03425	GNAT family N-acetyltransferase
+F6X01_RS03430	Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha
+F6X01_RS03435	NAD(P)(+) transhydrogenase (Re/Si-specific) subunit beta
+F6X01_RS03440	ferredoxin family protein
+F6X01_RS03445	succinyldiaminopimelate transaminase
+F6X01_RS03450	hypothetical protein
+F6X01_RS03455	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+F6X01_RS03460	hypothetical protein
+F6X01_RS03465	serine/threonine protein kinase
+F6X01_RS03470	DMT family transporter
+F6X01_RS03475	MFS transporter
+F6X01_RS03480	TetR family transcriptional regulator
+F6X01_RS03485	succinyl-diaminopimelate desuccinylase
+F6X01_RS03490	DivIVA domain-containing protein
+F6X01_RS03495	DUF3117 domain-containing protein
+F6X01_RS03500	glycogen synthase
+F6X01_RS03505	glucose-1-phosphate adenylyltransferase
+F6X01_RS03510	O-methyltransferase
+F6X01_RS03515	4-hydroxy-tetrahydrodipicolinate synthase
+F6X01_RS03520	sec-independent translocase
+F6X01_RS03525	cellulase family glycosylhydrolase
+F6X01_RS03530	Mrp/NBP35 family ATP-binding protein
+F6X01_RS03535	DUF1003 domain-containing protein
+F6X01_RS03540	CBS domain-containing protein
+F6X01_RS03545	hypothetical protein
+F6X01_RS03550	COX15/CtaA family protein
+F6X01_RS03555	aminopeptidase P family protein
+F6X01_RS03560	hypothetical protein
+F6X01_RS03565	C4-type zinc ribbon domain-containing protein
+F6X01_RS03570	RNase P RNA component class A
+F6X01_RS03575	hypothetical protein
+F6X01_RS03580	hypothetical protein
+F6X01_RS03585	ABC transporter substrate-binding protein
+F6X01_RS03590	iron chelate uptake ABC transporter family permease subunit
+F6X01_RS03595	ABC transporter ATP-binding protein
+F6X01_RS03600	(2Fe-2S) ferredoxin domain-containing protein
+F6X01_RS03605	YbdD/YjiX family protein
+F6X01_RS03615	hypothetical protein
+F6X01_RS03620	type I methionyl aminopeptidase
+F6X01_RS03625	hypothetical protein
+F6X01_RS03635	glutamine synthetase family protein
+F6X01_RS03640	sterol carrier family protein
+F6X01_RS03645	bifunctional [glutamine synthetase] adenylyltransferase/[glutamine synthetase]-adenylyl-L-tyrosine phosphorylase
+F6X01_RS03650	threonine/serine exporter family protein
+F6X01_RS03655	Nif3-like dinuclear metal center hexameric protein
+F6X01_RS03660	YdcF family protein
+F6X01_RS03670	hypothetical protein
+F6X01_RS03675	type I glutamate--ammonia ligase
+F6X01_RS03680	RDD family protein
+F6X01_RS03685	glycosyltransferase
+F6X01_RS03690	DedA family protein
+F6X01_RS03695	PTS transporter subunit EIIC
+F6X01_RS03700	GntR family transcriptional regulator
+F6X01_RS03705	PTS glucose/sucrose transporter subunit IIB
+F6X01_RS03710	PTS glucose/sucrose transporter subunit IIB
+F6X01_RS03715	PTS glucose transporter subunit IIA
+F6X01_RS03720	DUF1440 domain-containing protein
+F6X01_RS03725	DUF2029 domain-containing protein
+F6X01_RS03730	ATP-binding cassette domain-containing protein
+F6X01_RS03735	DUF4191 domain-containing protein
+F6X01_RS03740	glycoside hydrolase
+F6X01_RS03745	exo-alpha-sialidase
+F6X01_RS03750	MFS transporter
+F6X01_RS03755	hypothetical protein
+F6X01_RS03760	CAMP factor pore-forming toxin 2
+F6X01_RS03775	hypothetical protein
+F6X01_RS03780	lipoyl synthase
+F6X01_RS03785	heavy metal translocating P-type ATPase
+F6X01_RS03790	cytochrome c oxidase assembly protein
+F6X01_RS03795	lipoyl(octanoyl) transferase LipB
+F6X01_RS03800	2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase
+F6X01_RS03805	leucyl aminopeptidase
+F6X01_RS03810	hypothetical protein
+F6X01_RS03815	hypothetical protein
+F6X01_RS03820	DUF3043 domain-containing protein
+F6X01_RS03825	PspA/IM30 family protein
+F6X01_RS03830	hypothetical protein
+F6X01_RS03835	iron-sulfur cluster insertion protein ErpA
+F6X01_RS03840	cytochrome c oxidase subunit II
+F6X01_RS03845	cytochrome c oxidase subunit I
+F6X01_RS03850	cytochrome c oxidase subunit 4
+F6X01_RS03855	hypothetical protein
+F6X01_RS03860	ABC transporter ATP-binding protein
+F6X01_RS03865	peptidase inhibitor family I36 protein
+F6X01_RS03875	SDR family oxidoreductase
+F6X01_RS03880	GuaB1 family IMP dehydrogenase-related protein
+F6X01_RS03885	MGMT family protein
+F6X01_RS03890	cytochrome bc complex cytochrome b subunit
+F6X01_RS03895	Rieske (2Fe-2S) protein
+F6X01_RS03900	cytochrome c
+F6X01_RS03905	heme-copper oxidase subunit III
+F6X01_RS03910	response regulator transcription factor
+F6X01_RS03915	DUF1421 domain-containing protein
+F6X01_RS03920	hypothetical protein
+F6X01_RS03925	hypothetical protein
+F6X01_RS03930	DUF5324 family protein
+F6X01_RS03935	peptidylprolyl isomerase
+F6X01_RS03940	rhomboid family intramembrane serine protease
+F6X01_RS03945	DEDD exonuclease domain-containing protein
+F6X01_RS03950	hypothetical protein
+F6X01_RS03960	C40 family peptidase
+F6X01_RS03965	ROK family glucokinase
+F6X01_RS03970	hypothetical protein
+F6X01_RS03975	1-acyl-sn-glycerol-3-phosphate acyltransferase
+F6X01_RS03980	hypothetical protein
+F6X01_RS03985	3-deoxy-7-phosphoheptulonate synthase class II
+F6X01_RS03990	MBL fold metallo-hydrolase
+F6X01_RS03995	DMT family transporter
+F6X01_RS04000	protein kinase
+F6X01_RS04005	ribonuclease
+F6X01_RS04010	barstar family protein
+F6X01_RS04015	polyprenyl synthetase family protein
+F6X01_RS04025	AAA family ATPase
+F6X01_RS04030	hypothetical protein
+F6X01_RS04035	alpha/beta hydrolase
+F6X01_RS04040	Hsp20/alpha crystallin family protein
+F6X01_RS04045	GntP family permease
+F6X01_RS04050	FCD domain-containing protein
+F6X01_RS04055	FCD domain-containing protein
+F6X01_RS04060	aminomethyl-transferring glycine dehydrogenase
+F6X01_RS04065	glycine cleavage system protein GcvH
+F6X01_RS04070	glycine cleavage system aminomethyltransferase GcvT
+F6X01_RS04075	DUF3040 domain-containing protein
+F6X01_RS04080	DUF3488 and transglutaminase-like domain-containing protein
+F6X01_RS04085	DUF58 domain-containing protein
+F6X01_RS04090	AAA family ATPase
+F6X01_RS04095	division/cell wall cluster transcriptional repressor MraZ
+F6X01_RS04100	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH
+F6X01_RS04105	septum formation initiator family protein
+F6X01_RS04110	penicillin-binding protein 2
+F6X01_RS04115	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+F6X01_RS04120	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+F6X01_RS04125	phospho-N-acetylmuramoyl-pentapeptide-transferase
+F6X01_RS04130	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+F6X01_RS04135	putative lipid II flippase FtsW
+F6X01_RS04140	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+F6X01_RS04145	UDP-N-acetylmuramate--L-alanine ligase
+F6X01_RS04150	FtsQ-type POTRA domain-containing protein
+F6X01_RS04155	cell division protein FtsZ
+F6X01_RS04160	polyphenol oxidase family protein
+F6X01_RS04165	cell division protein SepF
+F6X01_RS04170	YggT family protein
+F6X01_RS04175	DivIVA domain-containing protein
+F6X01_RS04180	TraR/DksA family transcriptional regulator
+F6X01_RS04185	signal peptidase II
+F6X01_RS04190	RluA family pseudouridine synthase
+F6X01_RS04195	pyruvate kinase
+F6X01_RS04210	CrcB family protein
+F6X01_RS04215	CrcB family protein
+F6X01_RS04220	tRNA-Leu
+F6X01_RS04225	response regulator
+F6X01_RS04230	PaaI family thioesterase
+F6X01_RS04235	DNA polymerase I
+F6X01_RS04240	(Fe-S)-binding protein
+F6X01_RS04245	FAD-binding oxidoreductase
+F6X01_RS04250	class F sortase
+F6X01_RS04260	30S ribosomal protein S1
+F6X01_RS04265	HtaA domain-containing protein
+F6X01_RS04270	ABC transporter substrate-binding protein
+F6X01_RS04275	iron ABC transporter permease
+F6X01_RS04280	heme ABC transporter ATP-binding protein
+F6X01_RS04285	ATP-binding cassette domain-containing protein
+F6X01_RS04290	ABC transporter ATP-binding protein/permease
+F6X01_RS04295	dephospho-CoA kinase
+F6X01_RS04300	HtaA domain-containing protein
+F6X01_RS04305	ATP-binding protein
+F6X01_RS04310	VWA domain-containing protein
+F6X01_RS04315	hypothetical protein
+F6X01_RS04320	cobaltochelatase subunit CobN
+F6X01_RS04325	ABC transporter ATP-binding protein
+F6X01_RS04330	iron ABC transporter permease
+F6X01_RS04335	ABC transporter substrate-binding protein
+F6X01_RS04340	hypothetical protein
+F6X01_RS04355	hypothetical protein
+F6X01_RS04360	hypothetical protein
+F6X01_RS04370	lactococcin 972 family bacteriocin
+F6X01_RS04375	excinuclease ABC subunit UvrB
+F6X01_RS04385	TerC family protein
+F6X01_RS04390	MBL fold metallo-hydrolase
+F6X01_RS04395	maleylpyruvate isomerase family mycothiol-dependent enzyme
+F6X01_RS04400	excinuclease ABC subunit UvrA
+F6X01_RS04405	Rieske (2Fe-2S) protein
+F6X01_RS04410	histidine phosphatase family protein
+F6X01_RS04415	hypothetical protein
+F6X01_RS04420	excinuclease ABC subunit UvrC
+F6X01_RS04425	RNase adapter RapZ
+F6X01_RS04430	YvcK family protein
+F6X01_RS04435	DNA-binding protein WhiA
+F6X01_RS04440	type I glyceraldehyde-3-phosphate dehydrogenase
+F6X01_RS04445	phosphoglycerate kinase
+F6X01_RS04450	triose-phosphate isomerase
+F6X01_RS04455	preprotein translocase subunit SecG
+F6X01_RS04460	RNA polymerase-binding protein RbpA
+F6X01_RS04465	bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+F6X01_RS04470	DUF4233 domain-containing protein
+F6X01_RS04475	nucleoside-diphosphate kinase
+F6X01_RS04480	TIGR03960 family B12-binding radical SAM protein
+F6X01_RS04485	TIGR03936 family radical SAM-associated protein
+F6X01_RS04490	Rne/Rng family ribonuclease
+F6X01_RS04495	50S ribosomal protein L21
+F6X01_RS04500	50S ribosomal protein L27
+F6X01_RS04505	hypothetical protein
+F6X01_RS04510	TetR/AcrR family transcriptional regulator
+F6X01_RS04515	MFS transporter
+F6X01_RS04520	GTPase ObgE
+F6X01_RS04525	glutamate 5-kinase
+F6X01_RS04530	glutamate-5-semialdehyde dehydrogenase
+F6X01_RS04535	nicotinate-nucleotide adenylyltransferase
+F6X01_RS04540	ribosome silencing factor
+F6X01_RS04545	histidine phosphatase family protein
+F6X01_RS04550	tRNA-Ala
+F6X01_RS04555	N-acetylmuramoyl-L-alanine amidase
+F6X01_RS04565	hypothetical protein
+F6X01_RS04570	hypothetical protein
+F6X01_RS04575	hypothetical protein
+F6X01_RS04580	hypothetical protein
+F6X01_RS04600	hypothetical protein
+F6X01_RS04605	flavin reductase family protein
+F6X01_RS04610	hypothetical protein
+F6X01_RS04615	hypothetical protein
+F6X01_RS04620	TetR/AcrR family transcriptional regulator
+F6X01_RS04640	FtsX-like permease family protein
+F6X01_RS04645	ABC transporter ATP-binding protein
+F6X01_RS04650	histidine kinase
+F6X01_RS04655	response regulator transcription factor
+F6X01_RS04665	hypothetical protein
+F6X01_RS04670	hypothetical protein
+F6X01_RS04675	Tm-1-like ATP-binding domain-containing protein
+F6X01_RS04680	hypothetical protein
+F6X01_RS04685	hypothetical protein
+F6X01_RS04690	hypothetical protein
+F6X01_RS04695	GntR family transcriptional regulator
+F6X01_RS04715	ATP-binding cassette domain-containing protein
+F6X01_RS04720	MarR family transcriptional regulator
+F6X01_RS04725	hypothetical protein
+F6X01_RS04730	phosphotriesterase
+F6X01_RS04735	3-dehydro-L-gulonate-6-phosphate decarboxylase
+F6X01_RS04740	L-ribulose-5-phosphate 3-epimerase
+F6X01_RS04745	L-ribulose-5-phosphate 4-epimerase
+F6X01_RS04750	sugar kinase
+F6X01_RS04755	MFS transporter
+F6X01_RS04760	hypothetical protein
+F6X01_RS04765	hydroxyethylthiazole kinase
+F6X01_RS04770	thiamine phosphate synthase
+F6X01_RS04775	L-lactate dehydrogenase
+F6X01_RS04780	NAD-dependent malic enzyme
+F6X01_RS04785	hypothetical protein
+F6X01_RS04790	hypothetical protein
+F6X01_RS04795	DUF4192 domain-containing protein
+F6X01_RS04800	VIT family protein
+F6X01_RS04805	leucine--tRNA ligase
+F6X01_RS04810	helix-hairpin-helix domain-containing protein
+F6X01_RS04815	ComEC/Rec2 family competence protein
+F6X01_RS04820	DEAD/DEAH box helicase family protein
+F6X01_RS04825	DNA polymerase III subunit delta
+F6X01_RS04830	30S ribosomal protein S20
+F6X01_RS04835	alpha-amylase family protein
+F6X01_RS04840	translation elongation factor 4
+F6X01_RS04845	o-succinylbenzoate synthase
+F6X01_RS04850	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase
+F6X01_RS04855	chorismate-binding protein
+F6X01_RS04860	hypothetical protein
+F6X01_RS04865	AMP-binding protein
+F6X01_RS04870	1,4-dihydroxy-2-naphthoyl-CoA synthase
+F6X01_RS04875	rhomboid family intramembrane serine protease
+F6X01_RS04905	hypothetical protein
+F6X01_RS04910	radical SAM family heme chaperone HemW
+F6X01_RS04915	DUF3097 domain-containing protein
+F6X01_RS04920	inositol monophosphatase
+F6X01_RS04925	MBL fold metallo-hydrolase
+F6X01_RS04930	heat-inducible transcriptional repressor HrcA
+F6X01_RS04935	molecular chaperone DnaJ
+F6X01_RS04940	16S rRNA (uracil(1498)-N(3))-methyltransferase
+F6X01_RS04945	zinc-dependent dehydrogenase
+F6X01_RS04950	PTS mannitol transporter subunit IICBA
+F6X01_RS04955	DoxX family protein
+F6X01_RS04960	RecQ family ATP-dependent DNA helicase
+F6X01_RS04965	hypothetical protein
+F6X01_RS04970	EamA family transporter
+F6X01_RS04975	tRNA guanosine(34) transglycosylase Tgt
+F6X01_RS04980	sensor histidine kinase
+F6X01_RS04985	response regulator transcription factor
+F6X01_RS04990	ATP-binding cassette domain-containing protein
+F6X01_RS04995	ABC transporter permease
+F6X01_RS05000	queuosine precursor transporter
+F6X01_RS05005	prolyl aminopeptidase
+F6X01_RS05010	hypothetical protein
+F6X01_RS05015	phosphotransferase
+F6X01_RS05020	PhoH family protein
+F6X01_RS05025	rRNA maturation RNase YbeY
+F6X01_RS05030	hemolysin family protein
+F6X01_RS05035	GTPase Era
+F6X01_RS05040	amidohydrolase family protein
+F6X01_RS05045	2-isopropylmalate synthase
+F6X01_RS05050	isoprenyl transferase
+F6X01_RS05055	membrane protein
+F6X01_RS05060	DNA repair protein RecO
+F6X01_RS05065	histidine kinase
+F6X01_RS05070	hypothetical protein
+F6X01_RS05075	response regulator transcription factor
+F6X01_RS05080	transcriptional repressor
+F6X01_RS05085	glycine--tRNA ligase
+F6X01_RS05090	succinate dehydrogenase cytochrome b subunit
+F6X01_RS05095	fumarate reductase/succinate dehydrogenase flavoprotein subunit
+F6X01_RS05100	succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+F6X01_RS05105	5,6-dimethylbenzimidazole synthase
+F6X01_RS05110	tRNA dihydrouridine synthase DusB
+F6X01_RS05115	HD domain-containing protein
+F6X01_RS05120	ABC transporter permease
+F6X01_RS05125	DNA primase
+F6X01_RS05130	sigma-70 family RNA polymerase sigma factor
+F6X01_RS05135	hypothetical protein
+F6X01_RS05140	tRNA-Asn
+F6X01_RS05145	MsnO8 family LLM class oxidoreductase
+F6X01_RS05150	trehalose-6-phosphate synthase
+F6X01_RS05155	trehalose-phosphatase
+F6X01_RS05160	hypothetical protein
+F6X01_RS05165	cysteine synthase A
+F6X01_RS05170	PLP-dependent aminotransferase family protein
+F6X01_RS05175	pyridoxal 5'-phosphate synthase lyase subunit PdxS
+F6X01_RS05180	pyridoxal 5'-phosphate synthase glutaminase subunit PdxT
+F6X01_RS05185	adenosylmethionine--8-amino-7-oxononanoate transaminase
+F6X01_RS05190	dethiobiotin synthase
+F6X01_RS05195	APC family permease
+F6X01_RS05200	hypothetical protein
+F6X01_RS05205	hypothetical protein
+F6X01_RS05215	tRNA-Ile
+F6X01_RS05220	hypothetical protein
+F6X01_RS05225	hypothetical protein
+F6X01_RS05230	HAD hydrolase family protein
+F6X01_RS05235	hypothetical protein
+F6X01_RS05245	MoxR family ATPase
+F6X01_RS05250	DUF58 domain-containing protein
+F6X01_RS05255	VWA domain-containing protein
+F6X01_RS05260	VWA domain-containing protein
+F6X01_RS05265	YggS family pyridoxal phosphate-dependent enzyme
+F6X01_RS05270	DUF3145 family protein
+F6X01_RS05275	beta-ketoacyl-[acyl-carrier-protein] synthase family protein
+F6X01_RS05280	acyl carrier protein
+F6X01_RS05285	ketoacyl-ACP synthase III
+F6X01_RS05290	ACP S-malonyltransferase
+F6X01_RS05295	2-dehydropantoate 2-reductase
+F6X01_RS05300	hypothetical protein
+F6X01_RS05305	sugar porter family MFS transporter
+F6X01_RS05310	helix-turn-helix domain-containing protein
+F6X01_RS05315	pyruvate dehydrogenase (acetyl-transferring), homodimeric type
+F6X01_RS05320	glycosyl hydrolase family 18 protein
+F6X01_RS05325	DUF3052 domain-containing protein
+F6X01_RS05330	fibronectin type III-like domain-contianing protein
+F6X01_RS05335	isochorismatase family protein
+F6X01_RS05340	hypothetical protein
+F6X01_RS05345	aldo/keto reductase
+F6X01_RS05350	bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR
+F6X01_RS05355	aspartate carbamoyltransferase catalytic subunit
+F6X01_RS05360	dihydroorotase
+F6X01_RS05365	carbamoyl phosphate synthase small subunit
+F6X01_RS05370	carbamoyl-phosphate synthase large subunit
+F6X01_RS05375	dihydroorotate dehydrogenase electron transfer subunit
+F6X01_RS05380	dihydroorotate dehydrogenase
+F6X01_RS05385	orotidine-5'-phosphate decarboxylase
+F6X01_RS05390	orotate phosphoribosyltransferase
+F6X01_RS05395	fructosamine kinase family protein
+F6X01_RS05400	30S ribosomal protein S12 methylthiotransferase RimO
+F6X01_RS05405	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+F6X01_RS05410	CinA family protein
+F6X01_RS05415	helix-turn-helix transcriptional regulator
+F6X01_RS05420	DeoR/GlpR family DNA-binding transcription regulator
+F6X01_RS05425	DUF3046 domain-containing protein
+F6X01_RS05430	hypothetical protein
+F6X01_RS05435	recombinase RecA
+F6X01_RS05440	recombination regulator RecX
+F6X01_RS05445	ribonuclease Y
+F6X01_RS05450	aldose 1-epimerase family protein
+F6X01_RS05455	YfcC family protein
+F6X01_RS05460	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB
+F6X01_RS05465	antitoxin
+F6X01_RS05470	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+F6X01_RS05475	diaminopimelate epimerase
+F6X01_RS05480	GTPase HflX
+F6X01_RS05485	ATP-dependent DNA helicase
+F6X01_RS05490	LexA family transcriptional regulator
+F6X01_RS05495	hypothetical protein
+F6X01_RS05500	transcriptional regulator NrdR
+F6X01_RS05505	vitamin B12-dependent ribonucleotide reductase
+F6X01_RS05510	YbjN domain-containing protein
+F6X01_RS05515	universal stress protein
+F6X01_RS05525	ATP-dependent RNA helicase HrpA
+F6X01_RS05530	thioesterase family protein
+F6X01_RS05535	sigma-70 family RNA polymerase sigma factor
+F6X01_RS05540	RNA polymerase sigma factor
+F6X01_RS05545	beta-mannosidase
+F6X01_RS05550	TetR/AcrR family transcriptional regulator
+F6X01_RS05555	alpha/beta hydrolase
+F6X01_RS05560	GNAT family N-acetyltransferase
+F6X01_RS05565	hypothetical protein
+F6X01_RS05570	hypothetical protein
+F6X01_RS05575	FAD-dependent oxidoreductase
+F6X01_RS05580	GNAT family N-acetyltransferase
+F6X01_RS05585	hypothetical protein
+F6X01_RS05590	type IIA DNA topoisomerase subunit B
+F6X01_RS05595	anaerobic C4-dicarboxylate transporter
+F6X01_RS05600	MFS transporter
+F6X01_RS05605	DNA topoisomerase IV subunit A
+F6X01_RS05610	DUF2183 domain-containing protein
+F6X01_RS05615	DUF5998 family protein
+F6X01_RS05620	alkaline phosphatase family protein
+F6X01_RS05625	thymidine kinase
+F6X01_RS05630	DUF3071 domain-containing protein
+F6X01_RS05635	DUF4193 domain-containing protein
+F6X01_RS05640	DUF4235 domain-containing protein
+F6X01_RS05645	DUF3093 domain-containing protein
+F6X01_RS05650	dUTP diphosphatase
+F6X01_RS05655	DUF3710 domain-containing protein
+F6X01_RS05660	OB-fold nucleic acid binding domain-containing protein
+F6X01_RS05665	TrkA family potassium uptake protein
+F6X01_RS05670	TrkA family potassium uptake protein
+F6X01_RS05675	APC family permease
+F6X01_RS05680	TRAM domain-containing protein
+F6X01_RS05690	aconitate hydratase AcnA
+F6X01_RS05695	1-deoxy-D-xylulose-5-phosphate synthase
+F6X01_RS05700	ribonuclease D
+F6X01_RS05705	DUF3000 domain-containing protein
+F6X01_RS05710	peptide-methionine (R)-S-oxide reductase MsrB
+F6X01_RS05715	hypothetical protein
+F6X01_RS05720	helix-turn-helix transcriptional regulator
+F6X01_RS05725	tryptophanase
+F6X01_RS05730	amino acid permease
+F6X01_RS05735	polyphosphate--nucleotide phosphotransferase
+F6X01_RS05740	tRNA-Val
+F6X01_RS05745	tRNA-Cys
+F6X01_RS05750	tRNA-Gly
+F6X01_RS05760	tRNA-Val
+F6X01_RS05765	NAD(P)-dependent alcohol dehydrogenase
+F6X01_RS05770	sensor histidine kinase
+F6X01_RS05775	response regulator transcription factor
+F6X01_RS05780	threonine--tRNA ligase
+F6X01_RS05785	HIT domain-containing protein
+F6X01_RS05790	CDP-alcohol phosphatidyltransferase family protein
+F6X01_RS05795	CDP-alcohol phosphatidyltransferase family protein
+F6X01_RS05800	DUF881 domain-containing protein
+F6X01_RS05805	small basic family protein
+F6X01_RS05810	DUF881 domain-containing protein
+F6X01_RS05815	glycine cleavage system protein H
+F6X01_RS05820	zinc-ribbon and FHA domain-containing protein
+F6X01_RS05825	MerR family transcriptional regulator
+F6X01_RS05830	bifunctional nuclease family protein
+F6X01_RS05835	MerR family transcriptional regulator
+F6X01_RS05840	YihY/virulence factor BrkB family protein
+F6X01_RS05845	MFS transporter
+F6X01_RS05850	pyrophosphate--fructose-6-phosphate 1-phosphotransferase
+F6X01_RS05855	hypothetical protein
+F6X01_RS05860	threonylcarbamoyl-AMP synthase
+F6X01_RS05865	5'-methylthioadenosine/adenosylhomocysteine nucleosidase
+F6X01_RS05870	NAD(+)/NADH kinase
+F6X01_RS05875	IMPACT family protein
+F6X01_RS05880	FUSC family protein
+F6X01_RS05885	Hsp70 family protein
+F6X01_RS05890	PAC2 family protein
+F6X01_RS05895	hypothetical protein
+F6X01_RS05900	peptidylprolyl isomerase
+F6X01_RS05905	alpha/beta fold hydrolase
+F6X01_RS05910	endonuclease NucS
+F6X01_RS05915	DivIVA domain-containing protein
+F6X01_RS05920	VOC family protein
+F6X01_RS05935	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+F6X01_RS05940	tetratricopeptide repeat protein
+F6X01_RS05945	beta-phosphoglucomutase family hydrolase
+F6X01_RS05950	glycoside hydrolase family 65 protein
+F6X01_RS05955	glucose PTS transporter subunit IIA
+F6X01_RS05960	NUDIX hydrolase
+F6X01_RS05965	1,4-alpha-glucan branching protein GlgB
+F6X01_RS05970	phosphotransferase
+F6X01_RS05975	maltose alpha-D-glucosyltransferase
+F6X01_RS05980	alpha-1,4-glucan--maltose-1-phosphate maltosyltransferase
+F6X01_RS05985	glycogen debranching protein GlgX
+F6X01_RS05990	cysteine desulfurase
+F6X01_RS05995	tRNA 2-thiouridine(34) synthase MnmA
+F6X01_RS06000	methionine synthase
+F6X01_RS06005	hypothetical protein
+F6X01_RS06010	hypothetical protein
+F6X01_RS06015	amino acid-binding protein
+F6X01_RS06020	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC
+F6X01_RS06025	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA
+F6X01_RS06030	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB
+F6X01_RS06035	TIGR03085 family metal-binding protein
+F6X01_RS06040	phosphoribosyl-AMP cyclohydrolase
+F6X01_RS06045	hypothetical protein
+F6X01_RS06050	Trp biosynthesis-associated membrane protein
+F6X01_RS06055	hypothetical protein
+F6X01_RS06060	indole-3-glycerol phosphate synthase TrpC
+F6X01_RS06065	tryptophan synthase subunit beta
+F6X01_RS06070	tryptophan synthase subunit alpha
+F6X01_RS06075	prolipoprotein diacylglyceryl transferase
+F6X01_RS06080	glutamate synthase large subunit
+F6X01_RS06085	glutamate synthase subunit beta
+F6X01_RS06090	hypothetical protein
+F6X01_RS06095	penicillin binding protein PBP4B
+F6X01_RS06100	DUF308 domain-containing protein
+F6X01_RS06105	MurR/RpiR family transcriptional regulator
+F6X01_RS06110	N-acetylmuramic acid 6-phosphate etherase
+F6X01_RS06115	PTS transporter subunit EIIC
+F6X01_RS06120	hypothetical protein
+F6X01_RS06125	N-acetylglucosamine kinase
+F6X01_RS06130	hypothetical protein
+F6X01_RS06135	glycoside hydrolase family 1 protein
+F6X01_RS06140	PTS cellobiose transporter subunit IIB
+F6X01_RS06145	PTS sugar transporter subunit IIC
+F6X01_RS06150	PTS lactose/cellobiose transporter subunit IIA
+F6X01_RS06155	hypothetical protein
+F6X01_RS06160	DNA polymerase III subunit alpha
+F6X01_RS06165	hypothetical protein
+F6X01_RS06170	histidinol dehydrogenase
+F6X01_RS06175	histidinol-phosphate transaminase
+F6X01_RS06180	imidazoleglycerol-phosphate dehydratase HisB
+F6X01_RS06185	imidazole glycerol phosphate synthase subunit HisH
+F6X01_RS06190	bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA
+F6X01_RS06195	YebC/PmpR family DNA-binding transcriptional regulator
+F6X01_RS06200	crossover junction endodeoxyribonuclease RuvC
+F6X01_RS06205	Holliday junction branch migration protein RuvA
+F6X01_RS06210	Holliday junction branch migration DNA helicase RuvB
+F6X01_RS06215	preprotein translocase subunit YajC
+F6X01_RS06220	protein translocase subunit SecD
+F6X01_RS06225	protein translocase subunit SecF
+F6X01_RS06230	adenine phosphoribosyltransferase
+F6X01_RS06235	potassium channel family protein
+F6X01_RS06240	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+F6X01_RS06245	DUF349 domain-containing protein
+F6X01_RS06250	MBL fold metallo-hydrolase
+F6X01_RS06255	histidine--tRNA ligase
+F6X01_RS06260	DUF998 domain-containing protein
+F6X01_RS06265	GNAT family N-acetyltransferase
+F6X01_RS06270	acyl-CoA dehydratase activase-related protein
+F6X01_RS06275	TetR family transcriptional regulator
+F6X01_RS06280	hypothetical protein
+F6X01_RS06290	aspartate--tRNA ligase
+F6X01_RS06295	replication-associated recombination protein A
+F6X01_RS06300	DUF948 domain-containing protein
+F6X01_RS06305	alanine--tRNA ligase
+F6X01_RS06310	Holliday junction resolvase RuvX
+F6X01_RS06315	endolytic transglycosylase MltG
+F6X01_RS06320	shikimate dehydrogenase
+F6X01_RS06325	chorismate synthase
+F6X01_RS06330	shikimate kinase
+F6X01_RS06335	3-dehydroquinate synthase
+F6X01_RS06340	CapA family protein
+F6X01_RS06345	hypothetical protein
+F6X01_RS06350	polyphosphate kinase 2
+F6X01_RS06355	elongation factor P
+F6X01_RS06360	transcription antitermination factor NusB
+F6X01_RS06365	hypothetical protein
+F6X01_RS06370	guanylate kinase
+F6X01_RS06375	DNA-directed RNA polymerase subunit omega
+F6X01_RS06380	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+F6X01_RS06385	methionine adenosyltransferase
+F6X01_RS06390	primosomal protein N
+F6X01_RS06395	methionyl-tRNA formyltransferase
+F6X01_RS06400	rRNA cytosine-C5-methylase
+F6X01_RS06405	hypothetical protein
+F6X01_RS06410	CAMP factor family pore-forming toxin
+F6X01_RS06415	ribulose-phosphate 3-epimerase
+F6X01_RS06420	PAC2 family protein
+F6X01_RS06430	HAD-IA family hydrolase
+F6X01_RS06435	DUF3054 domain-containing protein
+F6X01_RS06440	YhgE/Pip domain-containing protein
+F6X01_RS06445	ATP-binding cassette domain-containing protein
+F6X01_RS06450	TetR/AcrR family transcriptional regulator
+F6X01_RS06455	proteasome subunit beta
+F6X01_RS06465	prephenate dehydrogenase
+F6X01_RS06470	(d)CMP kinase
+F6X01_RS06475	ribosome biogenesis GTPase Der
+F6X01_RS06480	tRNA-Pro
+F6X01_RS06485	ribokinase
+F6X01_RS06490	aldose 1-epimerase family protein
+F6X01_RS06495	L-fucose:H+ symporter permease
+F6X01_RS06500	deoxyribose-phosphate aldolase
+F6X01_RS06505	sugar-binding protein
+F6X01_RS06510	Cof-type HAD-IIB family hydrolase
+F6X01_RS06515	acetyl-CoA hydrolase
+F6X01_RS06520	hypothetical protein
+F6X01_RS06525	methionine biosynthesis protein MetW
+F6X01_RS06530	AsnC family transcriptional regulator
+F6X01_RS06535	apolipoprotein N-acyltransferase
+F6X01_RS06540	polyprenol monophosphomannose synthase
+F6X01_RS06545	RNA polymerase-binding protein RbpA
+F6X01_RS06550	glycerophosphodiester phosphodiesterase
+F6X01_RS06555	pyridoxal kinase
+F6X01_RS06560	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+F6X01_RS06565	dihydrolipoyl dehydrogenase
+F6X01_RS06570	cation diffusion facilitator family transporter
+F6X01_RS06580	hypothetical protein
+F6X01_RS06585	CAMP factor pore-forming toxin 4
+F6X01_RS06590	aminoacyl-tRNA hydrolase
+F6X01_RS06595	MFS transporter
+F6X01_RS06600	MarR family transcriptional regulator
+F6X01_RS06605	hypothetical protein
+F6X01_RS06615	cob(I)yrinic acid a,c-diamide adenosyltransferase
+F6X01_RS06620	DUF2550 domain-containing protein
+F6X01_RS06625	F0F1 ATP synthase subunit epsilon
+F6X01_RS06630	F0F1 ATP synthase subunit beta
+F6X01_RS06635	F0F1 ATP synthase subunit gamma
+F6X01_RS06640	F0F1 ATP synthase subunit alpha
+F6X01_RS06645	F0F1 ATP synthase subunit delta
+F6X01_RS06650	F0F1 ATP synthase subunit B
+F6X01_RS06655	ATP synthase F0 subunit C
+F6X01_RS06660	F0F1 ATP synthase subunit A
+F6X01_RS06665	AtpZ/AtpI family protein
+F6X01_RS06670	hypothetical protein
+F6X01_RS06675	undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+F6X01_RS06680	threonylcarbamoyl-AMP synthase
+F6X01_RS06685	peptide chain release factor N(5)-glutamine methyltransferase
+F6X01_RS06690	peptide chain release factor 1
+F6X01_RS06695	50S ribosomal protein L31
+F6X01_RS06700	transcription termination factor Rho
+F6X01_RS06705	homoserine kinase
+F6X01_RS06710	threonine synthase
+F6X01_RS06715	homoserine dehydrogenase
+F6X01_RS06720	diaminopimelate decarboxylase
+F6X01_RS06725	tRNA-Arg
+F6X01_RS06730	DUF2029 domain-containing protein
+F6X01_RS06735	multifunctional oxoglutarate decarboxylase/oxoglutarate dehydrogenase thiamine pyrophosphate-binding subunit/dihydrolipoyllysine-residue succinyltransferase subunit
+F6X01_RS06740	DUF6104 family protein
+F6X01_RS06745	hypothetical protein
+F6X01_RS06755	WhiB family transcriptional regulator
+F6X01_RS06760	sensor histidine kinase
+F6X01_RS06765	anti-sigma factor RsrA
+F6X01_RS06770	sigma-70 family RNA polymerase sigma factor
+F6X01_RS06780	DoxX family membrane protein
+F6X01_RS06785	3-phosphoshikimate 1-carboxyvinyltransferase
+F6X01_RS06790	ribosome small subunit-dependent GTPase A
+F6X01_RS06795	hypothetical protein
+F6X01_RS06800	histidinol-phosphatase
+F6X01_RS06805	phosphoglycerate dehydrogenase
+F6X01_RS06810	ABC transporter ATP-binding protein
+F6X01_RS06815	ABC transporter ATP-binding protein
+F6X01_RS06820	ABC transporter permease
+F6X01_RS06825	ABC transporter permease
+F6X01_RS06830	ABC transporter substrate-binding protein
+F6X01_RS06835	tRNA-Met
+F6X01_RS06840	transcriptional regulator
+F6X01_RS06845	helix-turn-helix domain-containing protein
+F6X01_RS06850	hypothetical protein
+F6X01_RS06855	hypothetical protein
+F6X01_RS06860	hypothetical protein
+F6X01_RS06870	hypothetical protein
+F6X01_RS06875	ParA family protein
+F6X01_RS06880	DUF929 family protein
+F6X01_RS06885	hypothetical protein
+F6X01_RS06890	hypothetical protein
+F6X01_RS06895	hypothetical protein
+F6X01_RS06900	hypothetical protein
+F6X01_RS06905	MFS transporter
+F6X01_RS06910	ATP-grasp domain-containing protein
+F6X01_RS06915	thioesterase domain-containing protein
+F6X01_RS06920	non-ribosomal peptide synthetase
+F6X01_RS06930	2,3-diaminopropionate biosynthesis protein SbnB
+F6X01_RS06935	2,3-diaminopropionate biosynthesis protein SbnA
+F6X01_RS06940	4'-phosphopantetheinyl transferase superfamily protein
+F6X01_RS06955	helix-turn-helix domain-containing protein
+F6X01_RS06960	hypothetical protein
+F6X01_RS06965	hypothetical protein
+F6X01_RS06970	GNAT family N-acetyltransferase
+F6X01_RS06975	hypothetical protein
+F6X01_RS06980	hypothetical protein
+F6X01_RS06985	hypothetical protein
+F6X01_RS06990	hypothetical protein
+F6X01_RS07015	hypothetical protein
+F6X01_RS07020	hypothetical protein
+F6X01_RS07025	hypothetical protein
+F6X01_RS07030	hypothetical protein
+F6X01_RS07035	universal stress protein
+F6X01_RS07040	PPA1309 family protein
+F6X01_RS07045	PDZ domain-containing protein
+F6X01_RS07050	zinc-dependent metalloprotease
+F6X01_RS07055	M48 family metallopeptidase
+F6X01_RS07060	hypothetical protein
+F6X01_RS07065	ATP-dependent DNA helicase UvrD2
+F6X01_RS07070	exodeoxyribonuclease V subunit gamma
+F6X01_RS07075	UvrD-helicase domain-containing protein
+F6X01_RS07080	exodeoxyribonuclease V subunit alpha
+F6X01_RS07085	NAD(+) diphosphatase
+F6X01_RS07090	DEAD/DEAH box helicase
+F6X01_RS07095	ATP-dependent helicase
+F6X01_RS07100	protein phosphatase 2C domain-containing protein
+F6X01_RS07105	DUF3107 domain-containing protein
+F6X01_RS07110	hypothetical protein
+F6X01_RS07115	DEAD/DEAH box helicase
+F6X01_RS07120	amino acid permease
+F6X01_RS07125	tryptophan--tRNA ligase
+F6X01_RS07130	PHP domain-containing protein
+F6X01_RS07135	NAD-glutamate dehydrogenase
+F6X01_RS07140	DUF2505 domain-containing protein
+F6X01_RS07145	hypothetical protein
+F6X01_RS07150	hypothetical protein
+F6X01_RS07155	preprotein translocase subunit SecA
+F6X01_RS07160	ribosome-associated translation inhibitor RaiA
+F6X01_RS07165	ComF family protein
+F6X01_RS07170	LpqB family beta-propeller domain-containing protein
+F6X01_RS07175	HAMP domain-containing histidine kinase
+F6X01_RS07180	response regulator transcription factor
+F6X01_RS07185	YqgE/AlgH family protein
+F6X01_RS07195	CAMP factor pore-forming toxin 1
+F6X01_RS07200	hypothetical protein
+F6X01_RS07205	hypothetical protein
+F6X01_RS07215	ribbon-helix-helix protein, CopG family
+F6X01_RS07220	hypothetical protein
+F6X01_RS07245	transfer-messenger RNA
+F6X01_RS07250	DUF4234 domain-containing protein
+F6X01_RS07260	transfer-messenger RNA
+F6X01_RS07265	DUF1707 domain-containing protein
+F6X01_RS07270	DUF1707 domain-containing protein
+F6X01_RS07275	argininosuccinate lyase
+F6X01_RS07280	acetylornithine transaminase
+F6X01_RS07285	acetylglutamate kinase
+F6X01_RS07290	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+F6X01_RS07295	N-acetyl-gamma-glutamyl-phosphate reductase
+F6X01_RS07300	SsrA-binding protein SmpB
+F6X01_RS07305	permease-like cell division protein FtsX
+F6X01_RS07310	cell division ATP-binding protein FtsE
+F6X01_RS07315	peptide chain release factor 2
+F6X01_RS07320	tRNA-Val
+F6X01_RS07325	DUF805 domain-containing protein
+F6X01_RS07330	DNA translocase FtsK
+F6X01_RS07335	hypothetical protein
+F6X01_RS07340	thiamine-phosphate kinase
+F6X01_RS07345	DUF3515 domain-containing protein
+F6X01_RS07350	D-alanine--D-alanine ligase
+F6X01_RS07355	1-acyl-sn-glycerol-3-phosphate acyltransferase
+F6X01_RS07365	IclR family transcriptional regulator
+F6X01_RS07370	tRNA-Glu
+F6X01_RS07375	tRNA-Gln
+F6X01_RS07380	CPBP family intramembrane metalloprotease
+F6X01_RS07385	fumarylacetoacetate hydrolase family protein
+F6X01_RS07390	thymidine phosphorylase
+F6X01_RS07395	branched-chain amino acid aminotransferase
+F6X01_RS07400	isocitrate/isopropylmalate family dehydrogenase
+F6X01_RS07410	isocitrate/isopropylmalate family dehydrogenase
+F6X01_RS07415	hypothetical protein
+F6X01_RS07420	ketol-acid reductoisomerase
+F6X01_RS07425	acetolactate synthase small subunit
+F6X01_RS07430	hypothetical protein
+F6X01_RS07440	HIT domain-containing protein
+F6X01_RS07445	imidazole glycerol phosphate synthase subunit HisF
+F6X01_RS07450	DEAD/DEAH box helicase
+F6X01_RS07455	hypothetical protein
+F6X01_RS07460	twin-arginine translocase subunit TatC
+F6X01_RS07465	twin-arginine translocase TatA/TatE family subunit
+F6X01_RS07470	hypothetical protein
+F6X01_RS07475	WYL domain-containing protein
+F6X01_RS07480	WYL domain-containing protein
+F6X01_RS07485	tRNA glutamyl-Q(34) synthetase GluQRS
+F6X01_RS07490	FKBP-type peptidyl-prolyl cis-trans isomerase
+F6X01_RS07495	hypothetical protein
+F6X01_RS07500	rRNA pseudouridine synthase
+F6X01_RS07505	hypothetical protein
+F6X01_RS07510	ParA family protein
+F6X01_RS07515	site-specific tyrosine recombinase XerD
+F6X01_RS07520	NUDIX hydrolase
+F6X01_RS07525	CTP synthase
+F6X01_RS07530	hypothetical protein
+F6X01_RS07535	DNA repair protein RecN
+F6X01_RS07540	NAD kinase
+F6X01_RS07545	TlyA family RNA methyltransferase
+F6X01_RS07550	energy-coupling factor transporter transmembrane protein EcfT
+F6X01_RS07555	energy-coupling factor ABC transporter ATP-binding protein
+F6X01_RS07560	biotin transporter BioY
+F6X01_RS07565	HAD-IIA family hydrolase
+F6X01_RS07575	5S ribosomal RNA
+F6X01_RS07580	23S ribosomal RNA
+F6X01_RS07585	16S ribosomal RNA
+F6X01_RS07590	tyrosine--tRNA ligase
+F6X01_RS07595	ArgR family transcriptional regulator
+F6X01_RS07600	TetR family transcriptional regulator
+F6X01_RS07605	biotin synthase BioB
+F6X01_RS07610	phenylalanine--tRNA ligase subunit beta
+F6X01_RS07615	phenylalanine--tRNA ligase subunit alpha
+F6X01_RS07620	RNA methyltransferase
+F6X01_RS07625	50S ribosomal protein L20
+F6X01_RS07630	50S ribosomal protein L35
+F6X01_RS07635	translation initiation factor IF-3
+F6X01_RS07645	SseB family protein
+F6X01_RS07650	hypothetical protein
+F6X01_RS07655	ATP phosphoribosyltransferase
+F6X01_RS07660	phosphoribosyl-ATP diphosphatase
+F6X01_RS07665	nicotinamide riboside transporter PnuC
+F6X01_RS07670	SCO1664 family protein
+F6X01_RS07675	DUF3090 domain-containing protein
+F6X01_RS07680	aldo/keto reductase
+F6X01_RS07685	citrate synthase
+F6X01_RS07690	M20/M25/M40 family metallo-hydrolase
+F6X01_RS07695	tRNA-Leu
+F6X01_RS07700	alpha/beta hydrolase
+F6X01_RS07705	alpha/beta hydrolase
+F6X01_RS07710	CsbD family protein
+F6X01_RS07720	DNA-processing protein DprA
+F6X01_RS07725	YifB family Mg chelatase-like AAA ATPase
+F6X01_RS07730	YraN family protein
+F6X01_RS07735	DUF2469 domain-containing protein
+F6X01_RS07740	ribonuclease HII
+F6X01_RS07745	signal peptidase I
+F6X01_RS07750	50S ribosomal protein L19
+F6X01_RS07755	hypothetical protein
+F6X01_RS07760	succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+F6X01_RS07765	fumarate reductase/succinate dehydrogenase flavoprotein subunit
+F6X01_RS07770	succinate dehydrogenase cytochrome b subunit
+F6X01_RS07775	tRNA (guanosine(37)-N1)-methyltransferase TrmD
+F6X01_RS07780	ribosome maturation factor RimM
+F6X01_RS07785	RNA-binding protein
+F6X01_RS07790	30S ribosomal protein S16
+F6X01_RS07800	amidohydrolase family protein
+F6X01_RS07805	signal recognition particle protein
+F6X01_RS07810	membrane protein
+F6X01_RS07815	signal recognition particle-docking protein FtsY
+F6X01_RS07820	GtrA family protein
+F6X01_RS07825	hypothetical protein
+F6X01_RS07830	toxin
+F6X01_RS07835	type II toxin-antitoxin system HicB family antitoxin
+F6X01_RS07840	hypothetical protein
+F6X01_RS07850	bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase
+F6X01_RS07855	ribonuclease III
+F6X01_RS07860	50S ribosomal protein L32
+F6X01_RS07865	DUF177 domain-containing protein
+F6X01_RS07870	sugar ABC transporter substrate-binding protein
+F6X01_RS07875	sugar ABC transporter permease
+F6X01_RS07880	carbohydrate ABC transporter permease
+F6X01_RS07885	LacI family transcriptional regulator
+F6X01_RS07890	glycosyl hydrolase-related protein
+F6X01_RS07895	hypothetical protein
+F6X01_RS07900	beta-N-acetylhexosaminidase
+F6X01_RS07905	ABC transporter permease
+F6X01_RS07910	hypothetical protein
+F6X01_RS07915	ABC transporter permease subunit
+F6X01_RS07920	ABC transporter permease
+F6X01_RS07925	ABC transporter ATP-binding protein
+F6X01_RS07930	ABC transporter ATP-binding protein
+F6X01_RS07935	ABC transporter substrate-binding protein
+F6X01_RS07940	glycosyl hydrolase family 18 protein
+F6X01_RS07945	hypothetical protein
+F6X01_RS07950	pantetheine-phosphate adenylyltransferase
+F6X01_RS07955	RsmD family RNA methyltransferase
+F6X01_RS07960	pyridoxamine 5'-phosphate oxidase family protein
+F6X01_RS07965	ATP-dependent DNA helicase RecG
+F6X01_RS07970	50S ribosomal protein L28
+F6X01_RS07975	ribonuclease J
+F6X01_RS07980	pyruvate dehydrogenase
+F6X01_RS07985	DUF2993 domain-containing protein
+F6X01_RS07990	4-hydroxy-tetrahydrodipicolinate reductase
+F6X01_RS07995	polyribonucleotide nucleotidyltransferase
+F6X01_RS08005	30S ribosomal protein S15
+F6X01_RS08010	bifunctional riboflavin kinase/FAD synthetase
+F6X01_RS08015	glycine betaine ABC transporter substrate-binding protein
+F6X01_RS08020	ABC transporter permease subunit
+F6X01_RS08025	betaine/proline/choline family ABC transporter ATP-binding protein
+F6X01_RS08030	tRNA pseudouridine(55) synthase TruB
+F6X01_RS08035	cupin domain-containing protein
+F6X01_RS08040	hypothetical protein
+F6X01_RS08045	HTH domain-containing protein
+F6X01_RS08050	transcriptional regulator GutM
+F6X01_RS08055	PTS glucitol/sorbitol transporter subunit IIC
+F6X01_RS08060	PTS glucitol/sorbitol transporter subunit IIB
+F6X01_RS08065	PTS glucitol/sorbitol transporter subunit IIA
+F6X01_RS08070	HPr family phosphocarrier protein
+F6X01_RS08075	sn-glycerol-1-phosphate dehydrogenase
+F6X01_RS08080	30S ribosome-binding factor RbfA
+F6X01_RS08085	hypothetical protein
+F6X01_RS08090	hypothetical protein
+F6X01_RS08095	ABC transporter ATP-binding protein
+F6X01_RS08115	YlxR family protein
+F6X01_RS08120	transcription termination factor NusA
+F6X01_RS08125	ribosome maturation factor RimP
+F6X01_RS08130	hypothetical protein
+F6X01_RS08135	TSUP family transporter
+F6X01_RS08140	TIGR03767 family metallophosphoesterase
+F6X01_RS08145	proline--tRNA ligase
+F6X01_RS08150	TIGR03773 family transporter-associated surface protein
+F6X01_RS08155	anchored repeat ABC transporter, substrate-binding protein
+F6X01_RS08160	choice-of-anchor M domain-containing protein
+F6X01_RS08165	anchored repeat-type ABC transporter ATP-binding subunit
+F6X01_RS08170	anchored repeat-type ABC transporter permease subunit
+F6X01_RS08175	GNAT family N-acetyltransferase
+F6X01_RS08180	flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase
+F6X01_RS08185	TenA family protein
+F6X01_RS08190	hypothetical protein
+F6X01_RS08195	site-2 protease family protein
+F6X01_RS08200	1-deoxy-D-xylulose-5-phosphate reductoisomerase
+F6X01_RS08205	serine hydrolase
+F6X01_RS08210	LOG family protein
+F6X01_RS08215	NADP-specific glutamate dehydrogenase
+F6X01_RS08220	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+F6X01_RS08225	disulfide bond formation protein B
+F6X01_RS08230	phosphatidate cytidylyltransferase
+F6X01_RS08235	ribosome recycling factor
+F6X01_RS08240	UMP kinase
+F6X01_RS08250	translation elongation factor Ts
+F6X01_RS08255	30S ribosomal protein S2
+F6X01_RS08265	tyrosine recombinase XerC
+F6X01_RS08270	M23 family metallopeptidase
+F6X01_RS08275	lactonase family protein
+F6X01_RS08280	peptide deformylase
+F6X01_RS08285	RNA methyltransferase
+F6X01_RS08290	bile acid:sodium symporter
+F6X01_RS08295	SPFH/Band 7/PHB domain protein
+F6X01_RS08300	NfeD family protein
+F6X01_RS08305	ABC transporter ATP-binding protein
+F6X01_RS08310	hypothetical protein
+F6X01_RS08315	enoyl-ACP reductase FabI
+F6X01_RS08320	3-oxoacyl-ACP reductase FabG
+F6X01_RS08325	DUF3099 domain-containing protein
+F6X01_RS08330	SURF1 family protein
+F6X01_RS08335	methyltransferase domain-containing protein
+F6X01_RS08340	helix-turn-helix domain-containing protein
+F6X01_RS08345	ATP-binding cassette domain-containing protein
+F6X01_RS08350	GNAT family N-acetyltransferase
+F6X01_RS08355	hypothetical protein
+F6X01_RS08365	FAD-dependent oxidoreductase
+F6X01_RS08370	metal-sulfur cluster assembly factor
+F6X01_RS08375	SUF system NifU family Fe-S cluster assembly protein
+F6X01_RS08380	cysteine desulfurase
+F6X01_RS08385	Fe-S cluster assembly ATPase SufC
+F6X01_RS08390	non-heme iron oxygenase ferredoxin subunit
+F6X01_RS08395	Fe-S cluster assembly protein SufD
+F6X01_RS08400	Fe-S cluster assembly protein SufB
+F6X01_RS08405	transcriptional regulator
+F6X01_RS08410	hypothetical protein
+F6X01_RS08415	extracellular solute-binding protein
+F6X01_RS08420	ABC transporter permease subunit
+F6X01_RS08425	sugar ABC transporter permease
+F6X01_RS08430	LacI family transcriptional regulator
+F6X01_RS08435	sodium-translocating pyrophosphatase
+F6X01_RS08440	ABC transporter ATP-binding protein
+F6X01_RS08445	ABC transporter permease
+F6X01_RS08450	COX15/CtaA family protein
+F6X01_RS08455	glycoside hydrolase
+F6X01_RS08460	heme o synthase
+F6X01_RS08465	glucose-6-phosphate dehydrogenase
+F6X01_RS08470	glucose-6-phosphate dehydrogenase assembly protein OpcA
+F6X01_RS08475	6-phosphogluconolactonase
+F6X01_RS08485	DoxX family protein
+F6X01_RS08490	thioredoxin domain-containing protein
+F6X01_RS08495	valine--tRNA ligase
+F6X01_RS08500	endo-alpha-N-acetylgalactosaminidase family protein
+F6X01_RS08505	S41 family peptidase
+F6X01_RS08510	ATP-dependent Clp protease ATP-binding subunit ClpX
+F6X01_RS08515	ATP-dependent Clp protease proteolytic subunit
+F6X01_RS08520	ATP-dependent Clp protease proteolytic subunit
+F6X01_RS08525	AI-2E family transporter
+F6X01_RS08530	trigger factor
+F6X01_RS08535	tRNA-Gly
+F6X01_RS08540	DUF2871 domain-containing protein
+F6X01_RS08545	DEAD/DEAH box helicase
+F6X01_RS08550	SWF/SNF helicase family protein
+F6X01_RS08555	restriction endonuclease subunit M
+F6X01_RS08560	DEAD/DEAH box helicase
+F6X01_RS08565	UvrD-helicase domain-containing protein
+F6X01_RS08570	HIRAN domain-containing protein
+F6X01_RS08575	hypothetical protein
+F6X01_RS08580	tRNA-Pro
+F6X01_RS08585	alpha/beta hydrolase
+F6X01_RS08590	bifunctional lysylphosphatidylglycerol synthetase/lysine--tRNA ligase LysX
+F6X01_RS08595	hypothetical protein
+F6X01_RS08600	Fpg/Nei family DNA glycosylase
+F6X01_RS08605	hypothetical protein
+F6X01_RS08610	ribose-5-phosphate isomerase
+F6X01_RS08615	GNAT family N-acetyltransferase
+F6X01_RS08620	NAD-dependent DNA ligase LigA
+F6X01_RS08625	aminopeptidase N
+F6X01_RS08630	hypothetical protein
+F6X01_RS08635	NADP-dependent phosphogluconate dehydrogenase
+F6X01_RS08650	thioesterase family protein
+F6X01_RS08655	long-chain fatty acid--CoA ligase
+F6X01_RS08660	MarR family transcriptional regulator
+F6X01_RS08665	FAD-binding oxidoreductase
+F6X01_RS08670	PadR family transcriptional regulator
+F6X01_RS08675	energy-dependent translational throttle protein EttA
+F6X01_RS08680	single-stranded DNA-binding protein
+F6X01_RS08685	YfjP family GTPase
+F6X01_RS08690	hypothetical protein
+F6X01_RS08695	PrsW family intramembrane metalloprotease
+F6X01_RS08700	tRNA-Arg
+F6X01_RS08705	MFS transporter
+F6X01_RS08710	oligoribonuclease
+F6X01_RS08715	tRNA-His
+F6X01_RS08720	amino acid permease
+F6X01_RS08725	serine/threonine protein kinase
+F6X01_RS08730	glycoside hydrolase family 3 protein
+F6X01_RS08735	hypothetical protein
+F6X01_RS08740	hypothetical protein
+F6X01_RS08750	5S ribosomal RNA
+F6X01_RS08755	23S ribosomal RNA
+F6X01_RS08760	16S ribosomal RNA
+F6X01_RS08765	error-prone DNA polymerase
+F6X01_RS08775	DNA polymerase Y family protein
+F6X01_RS08780	hypothetical protein
+F6X01_RS08785	MurT ligase domain-containing protein
+F6X01_RS08790	cobyric acid synthase
+F6X01_RS08795	tRNA-Lys
+F6X01_RS08800	ABC transporter substrate-binding protein
+F6X01_RS08805	sugar ABC transporter permease
+F6X01_RS08810	carbohydrate ABC transporter permease
+F6X01_RS08815	DUF3618 domain-containing protein
+F6X01_RS08820	thioredoxin-dependent thiol peroxidase
+F6X01_RS08825	tRNA-Leu
+F6X01_RS08830	hypothetical protein
+F6X01_RS08840	lysozyme
+F6X01_RS08845	hypothetical protein
+F6X01_RS08850	hypothetical protein
+F6X01_RS08855	hypothetical protein
+F6X01_RS08865	GDSL-type esterase/lipase family protein
+F6X01_RS08870	hypothetical protein
+F6X01_RS08880	hypothetical protein
+F6X01_RS08885	MurR/RpiR family transcriptional regulator
+F6X01_RS08890	hypothetical protein
+F6X01_RS08900	hypothetical protein
+F6X01_RS08905	DNA polymerase IV
+F6X01_RS08910	dihydrofolate reductase
+F6X01_RS08915	thymidylate synthase
+F6X01_RS08920	RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
+F6X01_RS08925	ribonuclease PH
+F6X01_RS08930	glutamate racemase
+F6X01_RS08935	ferrous iron transport protein A
+F6X01_RS08940	ferrous iron transporter B
+F6X01_RS08945	NifU family protein
+F6X01_RS08950	DUF2017 family protein
+F6X01_RS08955	ATP-dependent Clp protease adapter ClpS
+F6X01_RS08960	nicotinate phosphoribosyltransferase
+F6X01_RS08965	HU family DNA-binding protein
+F6X01_RS08970	4-alpha-glucanotransferase
+F6X01_RS08975	RDD family protein
+F6X01_RS08980	DUF3039 domain-containing protein
+F6X01_RS08985	type II 3-dehydroquinate dehydratase
+F6X01_RS08990	cation diffusion facilitator family transporter
+F6X01_RS08995	phosphoglucose isomerase
+F6X01_RS09000	hypothetical protein
+F6X01_RS09005	DUF3499 domain-containing protein
+F6X01_RS09010	metallopeptidase family protein
+F6X01_RS09015	DUF5719 family protein
+F6X01_RS09020	glycosyltransferase family 2 protein
+F6X01_RS09025	WhiB family transcriptional regulator
+F6X01_RS09030	hypothetical protein
+F6X01_RS09035	mannose-1-phosphate guanylyltransferase
+F6X01_RS09040	TIGR03089 family protein
+F6X01_RS09045	glycosyltransferase family 2 protein
+F6X01_RS09050	hypothetical protein
+F6X01_RS09055	LCP family protein
+F6X01_RS09060	DUF4981 domain-containing protein
+F6X01_RS09065	5-(carboxyamino)imidazole ribonucleotide mutase
+F6X01_RS09070	5-(carboxyamino)imidazole ribonucleotide synthase
+F6X01_RS09075	PH domain-containing protein
+F6X01_RS09080	peptidase E
+F6X01_RS09085	biotin--[acetyl-CoA-carboxylase] ligase
+F6X01_RS09090	hypothetical protein
+F6X01_RS09095	acyl-CoA carboxylase subunit beta
+F6X01_RS09100	acyl-CoA carboxylase subunit epsilon
+F6X01_RS09105	Maf family nucleotide pyrophosphatase
+F6X01_RS09110	hypothetical protein
+F6X01_RS09115	hypothetical protein
+F6X01_RS09120	SDR family oxidoreductase
+F6X01_RS09125	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+F6X01_RS09130	hypothetical protein
+F6X01_RS09135	short chain dehydrogenase
+F6X01_RS09145	thioester domain-containing protein
+F6X01_RS09150	magnesium transporter CorA family protein
+F6X01_RS09155	NUDIX domain-containing protein
+F6X01_RS09160	hypothetical protein
+F6X01_RS09165	ATP-grasp domain-containing protein
+F6X01_RS09170	hypothetical protein
+F6X01_RS09175	NAD(P)H-quinone dehydrogenase
+F6X01_RS09180	purine-nucleoside phosphorylase
+F6X01_RS09185	phospho-sugar mutase
+F6X01_RS09190	acyl--CoA ligase
+F6X01_RS09195	uridine kinase
+F6X01_RS09200	MFS transporter
+F6X01_RS09205	3'-5' exonuclease
+F6X01_RS09210	methionine--tRNA ligase
+F6X01_RS09215	ribonuclease HI family protein
+F6X01_RS09220	cytidine deaminase
+F6X01_RS09225	ABC transporter permease
+F6X01_RS09230	ABC transporter permease
+F6X01_RS09235	ABC transporter ATP-binding protein
+F6X01_RS09240	BMP family ABC transporter substrate-binding protein
+F6X01_RS09250	aminoglycoside phosphotransferase family protein
+F6X01_RS09255	hemolysin family protein
+F6X01_RS09260	hypothetical protein
+F6X01_RS09265	NADP-dependent isocitrate dehydrogenase
+F6X01_RS09270	formyltetrahydrofolate deformylase
+F6X01_RS09275	malate dehydrogenase
+F6X01_RS09285	aldehyde dehydrogenase EutE
+F6X01_RS09295	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+F6X01_RS09300	hypothetical protein
+F6X01_RS09305	hypothetical protein
+F6X01_RS09310	phosphoesterase
+F6X01_RS09315	hypothetical protein
+F6X01_RS09320	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+F6X01_RS09325	phosphoribosylglycinamide formyltransferase
+F6X01_RS09330	6,7-dimethyl-8-ribityllumazine synthase
+F6X01_RS09335	3,4-dihydroxy-2-butanone-4-phosphate synthase
+F6X01_RS09340	riboflavin synthase
+F6X01_RS09345	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+F6X01_RS09350	DUF6350 family protein
+F6X01_RS09355	succinate--CoA ligase subunit alpha
+F6X01_RS09360	ADP-forming succinate--CoA ligase subunit beta
+F6X01_RS09365	hypothetical protein
+F6X01_RS09370	DNA helicase PcrA
+F6X01_RS09380	MetQ/NlpA family ABC transporter substrate-binding protein
+F6X01_RS09385	methionine ABC transporter ATP-binding protein
+F6X01_RS09390	ABC transporter permease
+F6X01_RS09395	phospholipase D-like domain-containing protein
+F6X01_RS09400	GlsB/YeaQ/YmgE family stress response membrane protein
+F6X01_RS09405	PspC domain-containing protein
+F6X01_RS09415	glutamine-hydrolyzing GMP synthase
+F6X01_RS09420	hypothetical protein
+F6X01_RS09425	serine O-acetyltransferase
+F6X01_RS09430	chorismate mutase
+F6X01_RS09435	GuaB3 family IMP dehydrogenase-related protein
+F6X01_RS09440	IMP dehydrogenase
+F6X01_RS09445	polyprenol phosphomannose-dependent alpha 1,6 mannosyltransferase MptB
+F6X01_RS09450	hypothetical protein
+F6X01_RS09455	alanine:cation symporter family protein
+F6X01_RS09460	hypothetical protein
+F6X01_RS09470	chaperonin GroEL
+F6X01_RS09475	co-chaperone GroES
+F6X01_RS09480	hypothetical protein
+F6X01_RS09485	hypothetical protein
+F6X01_RS09490	class I SAM-dependent methyltransferase
+F6X01_RS09495	hypothetical protein
+F6X01_RS09500	ABC transporter ATP-binding protein
+F6X01_RS09505	iron ABC transporter permease
+F6X01_RS09510	ABC transporter substrate-binding protein
+F6X01_RS09515	8-oxo-dGTP diphosphatase
+F6X01_RS09520	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD
+F6X01_RS09525	ribosomal protein S18-alanine N-acetyltransferase
+F6X01_RS09530	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB
+F6X01_RS09535	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE
+F6X01_RS09540	HNH endonuclease family protein
+F6X01_RS09545	DEAD/DEAH box helicase
+F6X01_RS09550	hypothetical protein
+F6X01_RS09555	hypothetical protein
+F6X01_RS09560	ABC transporter ATP-binding protein
+F6X01_RS09570	glycosyltransferase family 1 protein
+F6X01_RS09575	NAD(P)H-hydrate epimerase
+F6X01_RS09580	holo-ACP synthase
+F6X01_RS09585	glutamine--fructose-6-phosphate transaminase (isomerizing)
+F6X01_RS09590	alpha/beta fold hydrolase
+F6X01_RS09595	triacylglycerol lipase
+F6X01_RS09600	type I pantothenate kinase
+F6X01_RS09605	hypothetical protein
+F6X01_RS09610	hypothetical protein
+F6X01_RS09615	phosphoglucosamine mutase
+F6X01_RS09620	30S ribosomal protein S9
+F6X01_RS09625	50S ribosomal protein L13
+F6X01_RS09630	glycosyl hydrolase family 85
+F6X01_RS09635	hypothetical protein
+F6X01_RS09640	DUF1540 domain-containing protein
+F6X01_RS09645	tRNA (guanosine(46)-N7)-methyltransferase TrmB
+F6X01_RS09650	tRNA pseudouridine(38-40) synthase TruA
+F6X01_RS09655	methyltransferase
+F6X01_RS09660	energy-coupling factor transporter transmembrane protein EcfT
+F6X01_RS09665	ABC transporter ATP-binding protein
+F6X01_RS09670	ECF transporter S component
+F6X01_RS09675	3-oxoacyl-ACP reductase FabG
+F6X01_RS09680	hypothetical protein
+F6X01_RS09685	ABC transporter ATP-binding protein
+F6X01_RS09695	superoxide dismutase
+F6X01_RS09700	beta-galactosidase
+F6X01_RS09705	discoidin domain-containing protein
+F6X01_RS09715	MFS transporter
+F6X01_RS09720	hypothetical protein
+F6X01_RS09725	glycosyltransferase
+F6X01_RS09730	50S ribosomal protein L17
+F6X01_RS09735	DNA-directed RNA polymerase subunit alpha
+F6X01_RS09740	30S ribosomal protein S4
+F6X01_RS09745	30S ribosomal protein S11
+F6X01_RS09750	30S ribosomal protein S13
+F6X01_RS09755	50S ribosomal protein L36
+F6X01_RS09760	translation initiation factor IF-1
+F6X01_RS09765	type I methionyl aminopeptidase
+F6X01_RS09770	adenylate kinase
+F6X01_RS09775	preprotein translocase subunit SecY
+F6X01_RS09780	hypothetical protein
+F6X01_RS09785	MFS transporter
+F6X01_RS09790	glycerophosphoryl diester phosphodiesterase
+F6X01_RS09795	ABC transporter family substrate-binding protein
+F6X01_RS09810	50S ribosomal protein L15
+F6X01_RS09815	50S ribosomal protein L30
+F6X01_RS09820	30S ribosomal protein S5
+F6X01_RS09825	50S ribosomal protein L18
+F6X01_RS09830	50S ribosomal protein L6
+F6X01_RS09835	30S ribosomal protein S8
+F6X01_RS09840	type Z 30S ribosomal protein S14
+F6X01_RS09845	50S ribosomal protein L5
+F6X01_RS09850	50S ribosomal protein L24
+F6X01_RS09855	50S ribosomal protein L14
+F6X01_RS09860	30S ribosomal protein S17
+F6X01_RS09865	50S ribosomal protein L29
+F6X01_RS09870	50S ribosomal protein L16
+F6X01_RS09875	30S ribosomal protein S3
+F6X01_RS09880	50S ribosomal protein L22
+F6X01_RS09885	30S ribosomal protein S19
+F6X01_RS09890	50S ribosomal protein L2
+F6X01_RS09895	50S ribosomal protein L23
+F6X01_RS09900	50S ribosomal protein L4
+F6X01_RS09905	50S ribosomal protein L3
+F6X01_RS09910	30S ribosomal protein S10
+F6X01_RS09915	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme
+F6X01_RS09920	hypothetical protein
+F6X01_RS09925	hypothetical protein
+F6X01_RS09930	glutamate--tRNA ligase
+F6X01_RS09935	glutamine--tRNA ligase/YqeY domain fusion protein
+F6X01_RS09945	5'-nucleotidase C-terminal domain-containing protein
+F6X01_RS09950	alpha/beta hydrolase
+F6X01_RS09955	elongation factor Tu
+F6X01_RS09960	hypothetical protein
+F6X01_RS09965	hypothetical protein
+F6X01_RS09970	elongation factor G
+F6X01_RS09975	30S ribosomal protein S7
+F6X01_RS09980	30S ribosomal protein S12
+F6X01_RS09985	hypothetical protein
+F6X01_RS09990	hypothetical protein
+F6X01_RS09995	choice-of-anchor M domain-containing protein
+F6X01_RS10000	DNA-directed RNA polymerase subunit beta
+F6X01_RS10005	DNA-directed RNA polymerase subunit beta
+F6X01_RS10010	50S ribosomal protein L7/L12
+F6X01_RS10015	50S ribosomal protein L10
+F6X01_RS10020	50S ribosomal protein L1
+F6X01_RS10025	50S ribosomal protein L11
+F6X01_RS10030	transcription termination/antitermination protein NusG
+F6X01_RS10035	preprotein translocase subunit SecE
+F6X01_RS10040	tRNA-Trp
+F6X01_RS10045	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme
+F6X01_RS10050	UDP-N-acetylmuramate dehydrogenase
+F6X01_RS10055	MaoC family dehydratase
+F6X01_RS10060	MaoC family dehydratase N-terminal domain-containing protein
+F6X01_RS10065	50S ribosomal protein L33
+F6X01_RS10070	tRNA-Met
+F6X01_RS10075	tRNA-Thr
+F6X01_RS10080	tRNA-Tyr
+F6X01_RS10085	exodeoxyribonuclease III
+F6X01_RS10090	enoyl-CoA hydratase/isomerase family protein
+F6X01_RS10095	polyprenol phosphomannose-dependent alpha 1,6 mannosyltransferase MptB
+F6X01_RS10100	4Fe-4S binding protein
+F6X01_RS10105	NADH-quinone oxidoreductase subunit C
+F6X01_RS10110	NADH dehydrogenase
+F6X01_RS10115	2-oxoacid:acceptor oxidoreductase subunit alpha
+F6X01_RS10120	2-oxoacid:ferredoxin oxidoreductase subunit beta
+F6X01_RS10130	hypothetical protein
+F6X01_RS10135	GDSL-type esterase/lipase family protein
+F6X01_RS10145	hypothetical protein
+F6X01_RS10150	hypothetical protein
+F6X01_RS10155	M13 family peptidase
+F6X01_RS10160	ABC transporter permease
+F6X01_RS10165	ATP-binding cassette domain-containing protein
+F6X01_RS10170	hypothetical protein
+F6X01_RS10175	hypothetical protein
+F6X01_RS10180	ABC transporter ATP-binding protein
+F6X01_RS10185	hypothetical protein
+F6X01_RS10190	hypothetical protein
+F6X01_RS10195	hypothetical protein
+F6X01_RS10200	CoA ester lyase
+F6X01_RS10205	precorrin-6A synthase (deacetylating)
+F6X01_RS10210	polyprenyl synthetase family protein
+F6X01_RS10215	hypothetical protein
+F6X01_RS10220	NADH-quinone oxidoreductase subunit NuoN
+F6X01_RS10225	NADH-quinone oxidoreductase subunit M
+F6X01_RS10230	NADH-quinone oxidoreductase subunit L
+F6X01_RS10235	NADH-quinone oxidoreductase subunit NuoK
+F6X01_RS10240	NADH-quinone oxidoreductase subunit J
+F6X01_RS10245	NADH-quinone oxidoreductase subunit NuoI
+F6X01_RS10250	NADH-quinone oxidoreductase subunit NuoH
+F6X01_RS10255	NADH-quinone oxidoreductase subunit G
+F6X01_RS10260	NADH-quinone oxidoreductase subunit NuoF
+F6X01_RS10265	NADH-quinone oxidoreductase subunit NuoE
+F6X01_RS10270	NADH-quinone oxidoreductase subunit D
+F6X01_RS10275	NADH-quinone oxidoreductase subunit C
+F6X01_RS10280	NADH-quinone oxidoreductase subunit B
+F6X01_RS10285	NADH-quinone oxidoreductase subunit A
+F6X01_RS10290	geranylgeranyl reductase family protein
+F6X01_RS10295	hypothetical protein
+F6X01_RS10300	chorismate-binding protein
+F6X01_RS10305	DUF6297 family protein
+F6X01_RS10310	ABC transporter ATP-binding protein
+F6X01_RS10315	demethylmenaquinone methyltransferase
+F6X01_RS10320	TM0106 family RecB-like putative nuclease
+F6X01_RS10325	ABC transporter ATP-binding protein/permease
+F6X01_RS10330	hypothetical protein
+F6X01_RS10335	ABC transporter ATP-binding protein
+F6X01_RS10340	hypothetical protein
+F6X01_RS10345	1,4-dihydroxy-2-naphthoate polyprenyltransferase
+F6X01_RS10350	MFS transporter
+F6X01_RS10355	dihydroxyacetone kinase subunit DhaK
+F6X01_RS10360	dihydroxyacetone kinase subunit L
+F6X01_RS10365	PTS-dependent dihydroxyacetone kinase phosphotransferase subunit DhaM
+F6X01_RS10370	deaminase
+F6X01_RS10375	cation diffusion facilitator family transporter
+F6X01_RS10380	hypothetical protein
+F6X01_RS10385	L-lactate dehydrogenase
+F6X01_RS10390	patatin-like phospholipase family protein
+F6X01_RS10395	HAD-IIA family hydrolase
+F6X01_RS10400	right-handed parallel beta-helix repeat-containing protein
+F6X01_RS10405	ROK family transcriptional regulator
+F6X01_RS10415	DUF4091 domain-containing protein
+F6X01_RS10420	sugar ABC transporter permease
+F6X01_RS10425	carbohydrate ABC transporter permease
+F6X01_RS10430	extracellular solute-binding protein
+F6X01_RS10440	tRNA-Lys
+F6X01_RS10445	SH3 domain-containing protein
+F6X01_RS10450	tRNA-Glu
+F6X01_RS10455	tRNA-Asp
+F6X01_RS10460	tRNA-Phe
+F6X01_RS10465	carbohydrate ABC transporter permease
+F6X01_RS10470	sugar ABC transporter permease
+F6X01_RS10475	ABC transporter substrate-binding protein
+F6X01_RS10480	alpha/beta hydrolase
+F6X01_RS10485	DUF3073 domain-containing protein
+F6X01_RS10490	phosphoribosylformylglycinamidine cyclo-ligase
+F6X01_RS10495	amidophosphoribosyltransferase
+F6X01_RS10500	MFS transporter
+F6X01_RS10505	dipeptidase
+F6X01_RS10510	slipin family protein
+F6X01_RS10515	hypothetical protein
+F6X01_RS10520	cbb3-type cytochrome c oxidase subunit I
+F6X01_RS10525	aminodeoxychorismate synthase component I
+F6X01_RS10530	phosphoribosylformylglycinamidine synthase subunit PurL
+F6X01_RS10535	MFS transporter
+F6X01_RS10540	aminopeptidase N
+F6X01_RS10545	hypothetical protein
+F6X01_RS10550	hypothetical protein
+F6X01_RS10560	NAD(P)/FAD-dependent oxidoreductase
+F6X01_RS10565	phosphatase PAP2 family protein
+F6X01_RS10575	hypothetical protein
+F6X01_RS10580	GDSL-type esterase/lipase family protein
+F6X01_RS10585	hypothetical protein
+F6X01_RS10590	ATPase
+F6X01_RS10595	phosphoribosylformylglycinamidine synthase subunit PurQ
+F6X01_RS10600	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+F6X01_RS10605	alkyl hydroperoxide reductase subunit C
+F6X01_RS10610	alkyl hydroperoxide reductase subunit F
+F6X01_RS10615	hydrogen peroxide-inducible genes activator
+F6X01_RS10620	adenylosuccinate lyase
+F6X01_RS10625	phosphoribosylamine--glycine ligase
+F6X01_RS10630	adenylosuccinate synthase
+F6X01_RS10635	GNAT family N-acetyltransferase
+F6X01_RS10640	FCD domain-containing protein
+F6X01_RS10645	N-acetylmannosamine-6-phosphate 2-epimerase
+F6X01_RS10650	dihydrodipicolinate synthase family protein
+F6X01_RS10655	DUF4862 family protein
+F6X01_RS10660	MFS transporter
+F6X01_RS10665	DUF3151 family protein
+F6X01_RS10670	translational GTPase TypA
+F6X01_RS10680	L,D-transpeptidase
+F6X01_RS10690	biotin/lipoyl-binding protein
+F6X01_RS10695	hypothetical protein
+F6X01_RS10700	acyl-CoA carboxylase subunit beta
+F6X01_RS10705	methylmalonyl-CoA carboxytransferase subunit 5S
+F6X01_RS10710	hypothetical protein
+F6X01_RS10720	hypothetical protein
+F6X01_RS10725	class II fructose-bisphosphate aldolase
+F6X01_RS10730	hypothetical protein
+F6X01_RS10735	TrmH family RNA methyltransferase
+F6X01_RS10740	VTT domain-containing protein
+F6X01_RS10745	hypothetical protein
+F6X01_RS10750	fused MFS/spermidine synthase
+F6X01_RS10755	glycine betaine ABC transporter substrate-binding protein
+F6X01_RS10760	hypothetical protein
+F6X01_RS10765	MFS transporter
+F6X01_RS10770	ATP-dependent chaperone ClpB
+F6X01_RS10780	branched-chain amino acid transport system II carrier protein
+F6X01_RS10785	HAD-IIB family hydrolase
+F6X01_RS10790	fructose bisphosphate aldolase
+F6X01_RS10795	flavin reductase family protein
+F6X01_RS10800	Nramp family divalent metal transporter
+F6X01_RS10805	sensor histidine kinase
+F6X01_RS10810	response regulator transcription factor
+F6X01_RS10815	ABC transporter ATP-binding protein
+F6X01_RS10820	FtsX-like permease family protein
+F6X01_RS10825	NUDIX domain-containing protein
+F6X01_RS10830	amino acid permease
+F6X01_RS10835	transporter
+F6X01_RS10840	zinc-binding dehydrogenase
+F6X01_RS10845	SGNH/GDSL hydrolase family protein
+F6X01_RS10850	helix-turn-helix transcriptional regulator
+F6X01_RS10855	molecular chaperone DnaJ
+F6X01_RS10860	nucleotide exchange factor GrpE
+F6X01_RS10865	molecular chaperone DnaK
+F6X01_RS10870	hypothetical protein
+F6X01_RS10875	inorganic phosphate transporter
+F6X01_RS10880	response regulator transcription factor
+F6X01_RS10890	hypothetical protein
+F6X01_RS10895	deoxyribose-phosphate aldolase
+F6X01_RS10900	ThuA domain-containing protein
+F6X01_RS10905	FHA domain-containing protein
+F6X01_RS10910	pyruvate, phosphate dikinase
+F6X01_RS10915	kinase/pyrophosphorylase
+F6X01_RS10920	class I SAM-dependent methyltransferase
+F6X01_RS10925	phosphoserine phosphatase SerB
+F6X01_RS10930	aldose 1-epimerase
+F6X01_RS10935	acetyl-CoA hydrolase/transferase family protein
+F6X01_RS10945	hypothetical protein
+F6X01_RS10950	tRNA-Gly
+F6X01_RS10955	type II toxin-antitoxin system VapC family toxin
+F6X01_RS10960	antitoxin
+F6X01_RS10970	nucleoside hydrolase
+F6X01_RS10975	hypothetical protein
+F6X01_RS10980	hypothetical protein
+F6X01_RS10985	cupin domain-containing protein
+F6X01_RS10995	TetR/AcrR family transcriptional regulator
+F6X01_RS11000	ABC transporter ATP-binding protein/permease
+F6X01_RS11005	ABC transporter ATP-binding protein/permease
+F6X01_RS11010	hypothetical protein
+F6X01_RS11015	EcsC family protein
+F6X01_RS11020	threonine/serine exporter family protein
+F6X01_RS11025	hypothetical protein
+F6X01_RS11030	hypothetical protein
+F6X01_RS11035	ABC transporter ATP-binding protein
+F6X01_RS11040	hypothetical protein
+F6X01_RS11045	2-oxo acid dehydrogenase subunit E2
+F6X01_RS11050	alpha-ketoacid dehydrogenase subunit beta
+F6X01_RS11055	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+F6X01_RS11065	protoporphyrinogen oxidase
+F6X01_RS11070	TIGR04053 family radical SAM/SPASM domain-containing protein
+F6X01_RS11075	metallophosphoesterase
+F6X01_RS11080	5'-nucleotidase C-terminal domain-containing protein
+F6X01_RS11085	hypothetical protein
+F6X01_RS11090	ABC transporter ATP-binding protein
+F6X01_RS11100	ABC transporter ATP-binding protein
+F6X01_RS11120	HTH domain-containing protein
+F6X01_RS11125	hypothetical protein
+F6X01_RS11130	integrase core domain-containing protein
+F6X01_RS11140	alpha/beta fold hydrolase
+F6X01_RS11145	cellulase family glycosylhydrolase
+F6X01_RS11150	hypothetical protein
+F6X01_RS11155	CAMP factor family pore-forming toxin
+F6X01_RS11160	hypothetical protein
+F6X01_RS11165	hypothetical protein
+F6X01_RS11170	low molecular weight phosphotyrosine protein phosphatase
+F6X01_RS11175	cyanophycinase
+F6X01_RS11180	response regulator transcription factor
+F6X01_RS11185	HAMP domain-containing histidine kinase
+F6X01_RS11200	isopentenyl-diphosphate Delta-isomerase
+F6X01_RS11205	MarP family serine protease
+F6X01_RS11215	YciI family protein
+F6X01_RS11220	NADH:flavin oxidoreductase/NADH oxidase
+F6X01_RS11225	hypothetical protein
+F6X01_RS11230	MFS transporter
+F6X01_RS11235	ribonucleoside-diphosphate reductase subunit alpha
+F6X01_RS11240	ribonucleotide-diphosphate reductase subunit beta
+F6X01_RS11245	hypothetical protein
+F6X01_RS11255	ROK family protein
+F6X01_RS11260	membrane protein
+F6X01_RS11265	type B 50S ribosomal protein L36
+F6X01_RS11275	hypothetical protein
+F6X01_RS11280	arginine--tRNA ligase
+F6X01_RS11285	aldo/keto reductase
+F6X01_RS11290	YdcF family protein
+F6X01_RS11295	glucose-6-phosphate isomerase
+F6X01_RS11300	hypothetical protein
+F6X01_RS11305	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase
+F6X01_RS11310	DNA starvation/stationary phase protection protein
+F6X01_RS11315	DEAD/DEAH box helicase
+F6X01_RS11320	anaerobic ribonucleoside-triphosphate reductase activating protein
+F6X01_RS11325	anaerobic ribonucleoside triphosphate reductase
+F6X01_RS11330	YbhB/YbcL family Raf kinase inhibitor-like protein
+F6X01_RS11335	cutinase family protein
+F6X01_RS11340	membrane protein
+F6X01_RS11345	tRNA-Leu
+F6X01_RS11350	hypothetical protein
+F6X01_RS11355	alpha/beta hydrolase
+F6X01_RS11360	polysaccharide deacetylase family protein
+F6X01_RS11365	TIGR03943 family protein
+F6X01_RS11370	permease
+F6X01_RS11375	hypothetical protein
+F6X01_RS11380	polysaccharide deacetylase family protein
+F6X01_RS11385	murein biosynthesis integral membrane protein MurJ
+F6X01_RS11390	aspartate kinase
+F6X01_RS11395	transglycosylase domain-containing protein
+F6X01_RS11400	metallophosphoesterase
+F6X01_RS11405	tRNA-Pro
+F6X01_RS11410	type 1 glutamine amidotransferase
+F6X01_RS11415	ABC transporter substrate-binding protein
+F6X01_RS11420	ABC transporter permease
+F6X01_RS11425	ABC transporter permease
+F6X01_RS11430	ABC transporter ATP-binding protein
+F6X01_RS11435	dipeptide ABC transporter ATP-binding protein
+F6X01_RS11440	type B 50S ribosomal protein L31
+F6X01_RS11445	50S ribosomal protein L28
+F6X01_RS11450	50S ribosomal protein L33
+F6X01_RS11455	30S ribosomal protein S14
+F6X01_RS11460	50S ribosomal protein L32
+F6X01_RS11465	FKBP-type peptidyl-prolyl cis-trans isomerase
+F6X01_RS11470	glycoside hydrolase family 3 protein
+F6X01_RS11480	urocanate hydratase
+F6X01_RS11485	allantoate amidohydrolase
+F6X01_RS11490	formimidoylglutamate deiminase
+F6X01_RS11495	imidazolonepropionase
+F6X01_RS11500	histidine ammonia-lyase
+F6X01_RS11505	hypothetical protein
+F6X01_RS11510	type I-E CRISPR-associated endoribonuclease Cas2e
+F6X01_RS11520	hypothetical protein
+F6X01_RS11525	alpha/beta fold hydrolase
+F6X01_RS11530	septal ring lytic transglycosylase RlpA family protein
+F6X01_RS11535	hypothetical protein
+F6X01_RS11540	type II toxin-antitoxin system VapB family antitoxin
+F6X01_RS11545	LytR C-terminal domain-containing protein
+F6X01_RS11550	potassium/proton antiporter
+F6X01_RS11560	hypothetical protein
+F6X01_RS11565	tRNA-Ser
+F6X01_RS11570	lipopolysaccharide biosynthesis protein
+F6X01_RS11575	nucleoside deaminase
+F6X01_RS11580	tRNA adenosine deaminase-associated protein
+F6X01_RS11585	uracil phosphoribosyltransferase
+F6X01_RS11590	acyl dehydratase
+F6X01_RS11595	YbaK/EbsC family protein
+F6X01_RS11600	hypothetical protein
+F6X01_RS11605	KUP/HAK/KT family potassium transporter
+F6X01_RS11610	type 1 glutamine amidotransferase
+F6X01_RS11620	tRNA-Arg
+F6X01_RS11625	tRNA-Ser
+F6X01_RS11630	LCP family protein
+F6X01_RS11635	LacI family DNA-binding transcriptional regulator
+F6X01_RS11640	galactokinase
+F6X01_RS11650	sodium:solute symporter family protein
+F6X01_RS11655	hypothetical protein
+F6X01_RS11660	hypothetical protein
+F6X01_RS11665	tRNA-Ser
+F6X01_RS11670	hypothetical protein
+F6X01_RS11675	hypothetical protein
+F6X01_RS11680	NAD(P)H-quinone oxidoreductase
+F6X01_RS11685	argininosuccinate synthase
+F6X01_RS11690	DUF4282 domain-containing protein
+F6X01_RS11695	MFS transporter
+F6X01_RS11700	sodium:proton antiporter
+F6X01_RS11705	WhiB family transcriptional regulator
+F6X01_RS11710	HAD family hydrolase
+F6X01_RS11715	thiazolylpeptide-type bacteriocin
+F6X01_RS11720	ABC transporter ATP-binding protein
+F6X01_RS11725	ABC transporter permease
+F6X01_RS11730	hypothetical protein
+F6X01_RS11735	XRE family transcriptional regulator
+F6X01_RS11740	hypothetical protein
+F6X01_RS11745	hypothetical protein
+F6X01_RS11750	cytosine permease
+F6X01_RS11755	4Fe-4S dicluster domain-containing protein
+F6X01_RS11760	FAD-dependent oxidoreductase
+F6X01_RS11765	electron transfer flavoprotein subunit alpha/FixB family protein
+F6X01_RS11770	electron transfer flavoprotein subunit beta/FixA family protein
+F6X01_RS11775	CoA transferase
+F6X01_RS11780	acyl-CoA dehydrogenase family protein
+F6X01_RS11785	IclR family transcriptional regulator
+F6X01_RS11790	DUF4921 family protein
+F6X01_RS11795	serine--tRNA ligase
+F6X01_RS11800	PRC and DUF2382 domain-containing protein
+F6X01_RS11810	leucyl/phenylalanyl-tRNA--protein transferase
+F6X01_RS11815	hypothetical protein
+F6X01_RS11820	hypothetical protein
+F6X01_RS11825	siderophore-interacting protein
+F6X01_RS11830	undecaprenyl-diphosphate phosphatase
+F6X01_RS11835	ferritin
+F6X01_RS11840	hypothetical protein
+F6X01_RS11845	hypothetical protein
+F6X01_RS11850	50S ribosomal protein L9
+F6X01_RS11855	30S ribosomal protein S18
+F6X01_RS11860	single-stranded DNA-binding protein
+F6X01_RS11865	30S ribosomal protein S6
+F6X01_RS11870	hypothetical protein
+F6X01_RS11875	rhodanese-like domain-containing protein
+F6X01_RS11880	PTS sugar transporter subunit IIA
+F6X01_RS11885	PTS fructose transporter subunit IIBC
+F6X01_RS11890	hypothetical protein
+F6X01_RS11895	long-chain fatty acid--CoA ligase
+F6X01_RS11900	deoxyribonuclease IV
+F6X01_RS11905	SDR family NAD(P)-dependent oxidoreductase
+F6X01_RS11910	1-acyl-sn-glycerol-3-phosphate acyltransferase
+F6X01_RS11915	GyrI-like domain-containing protein
+F6X01_RS11920	septal ring lytic transglycosylase RlpA family protein
+F6X01_RS11925	heavy metal translocating P-type ATPase
+F6X01_RS11930	heavy-metal-associated domain-containing protein
+F6X01_RS11935	metal-sensitive transcriptional regulator
+F6X01_RS11940	replicative DNA helicase
+F6X01_RS11945	zinc-binding alcohol dehydrogenase family protein
+F6X01_RS11950	hypothetical protein
+F6X01_RS11955	DNA-3-methyladenine glycosylase
+F6X01_RS11960	anaerobic glycerol-3-phosphate dehydrogenase subunit C
+F6X01_RS11965	glycerol-3-phosphate dehydrogenase subunit GlpB
+F6X01_RS11970	anaerobic glycerol-3-phosphate dehydrogenase subunit A
+F6X01_RS11975	D-glycerate dehydrogenase
+F6X01_RS11980	MarR family transcriptional regulator
+F6X01_RS11985	chloride channel protein
+F6X01_RS11990	amino acid permease
+F6X01_RS11995	MarR family transcriptional regulator
+F6X01_RS12000	metallophosphoesterase
+F6X01_RS12005	AAA family ATPase
+F6X01_RS12010	MATE family efflux transporter
+F6X01_RS12015	TetR/AcrR family transcriptional regulator
+F6X01_RS12020	aminodeoxychorismate lyase
+F6X01_RS12025	Cys-tRNA(Pro) deacylase
+F6X01_RS12030	hypothetical protein
+F6X01_RS12035	hypothetical protein
+F6X01_RS12050	NAD(+) synthase
+F6X01_RS12055	6-phosphofructokinase
+F6X01_RS12060	alanine dehydrogenase
+F6X01_RS12065	amino acid permease
+F6X01_RS12070	hypothetical protein
+F6X01_RS12075	hypothetical protein
+F6X01_RS12080	hypothetical protein
+F6X01_RS12085	hypothetical protein
+F6X01_RS12090	Ig-like domain-containing protein
+F6X01_RS12095	septal ring lytic transglycosylase RlpA family protein
+F6X01_RS12100	citrate synthase
+F6X01_RS12105	adenosine deaminase
+F6X01_RS12110	alanine dehydrogenase
+F6X01_RS12125	Gfo/Idh/MocA family oxidoreductase
+F6X01_RS12130	hypothetical protein
+F6X01_RS12135	PLP-dependent lyase/thiolase
+F6X01_RS12140	ornithine aminomutase subunit alpha
+F6X01_RS12145	cobalamin-dependent protein
+F6X01_RS12150	glutamate mutase L
+F6X01_RS12155	alanine/ornithine racemase family PLP-dependent enzyme
+F6X01_RS12160	amino acid permease
+F6X01_RS12165	amino acid permease
+F6X01_RS12170	alanine racemase
+F6X01_RS12175	phosphoglucomutase/phosphomannomutase family protein
+F6X01_RS12180	galactokinase
+F6X01_RS12185	nucleotidyltransferase family protein
+F6X01_RS12190	hypothetical protein
+F6X01_RS12200	DUF559 domain-containing protein
+F6X01_RS12205	class II fumarate hydratase
+F6X01_RS12210	carbohydrate ABC transporter permease
+F6X01_RS12215	sugar ABC transporter permease
+F6X01_RS12220	extracellular solute-binding protein
+F6X01_RS12225	LacI family transcriptional regulator
+F6X01_RS12230	suppressor of fused domain protein
+F6X01_RS12235	mechanosensitive ion channel
+F6X01_RS12240	glycerate kinase
+F6X01_RS12245	hypothetical protein
+F6X01_RS12250	CCA tRNA nucleotidyltransferase
+F6X01_RS12255	DUF6049 family protein
+F6X01_RS12260	protein kinase family protein
+F6X01_RS12270	glycerol kinase GlpK
+F6X01_RS12275	aquaporin family protein
+F6X01_RS12280	helix-turn-helix domain-containing protein
+F6X01_RS12285	trypsin-like peptidase domain-containing protein
+F6X01_RS12295	LacI family DNA-binding transcriptional regulator
+F6X01_RS12300	thioredoxin-disulfide reductase
+F6X01_RS12310	hypothetical protein
+F6X01_RS12315	RluA family pseudouridine synthase
+F6X01_RS12320	MFS transporter
+F6X01_RS12325	alpha/beta hydrolase
+F6X01_RS12330	OsmC family protein
+F6X01_RS12335	thioredoxin
+F6X01_RS12340	glycerol-3-phosphate dehydrogenase
+F6X01_RS12350	transketolase
+F6X01_RS12355	ribulokinase
+F6X01_RS12360	sn-glycerol-1-phosphate dehydrogenase
+F6X01_RS12365	xylulose kinase
+F6X01_RS12370	HAD-IIA family hydrolase
+F6X01_RS12375	hypothetical protein
+F6X01_RS12380	RpiB/LacA/LacB family sugar-phosphate isomerase
+F6X01_RS12385	class II aldolase/adducin family protein
+F6X01_RS12390	DeoR/GlpR family DNA-binding transcription regulator
+F6X01_RS12395	mannonate dehydratase
+F6X01_RS12400	mannitol dehydrogenase family protein
+F6X01_RS12405	glucuronate isomerase
+F6X01_RS12410	LacI family transcriptional regulator
+F6X01_RS12415	glycoside-pentoside-hexuronide (GPH):cation symporter
+F6X01_RS12420	glucosidase
+F6X01_RS12425	beta-glucuronidase
+F6X01_RS12430	hypothetical protein
+F6X01_RS12440	(2Fe-2S)-binding protein
+F6X01_RS12445	hypothetical protein
+F6X01_RS12450	PLP-dependent aminotransferase family protein
+F6X01_RS12455	D-alanine--D-alanine ligase
+F6X01_RS12460	SURF1 family protein
+F6X01_RS12465	DUF3817 domain-containing protein
+F6X01_RS12470	ParB/RepB/Spo0J family partition protein
+F6X01_RS12475	AAA family ATPase
+F6X01_RS12480	hypothetical protein
+F6X01_RS12485	hypothetical protein
+F6X01_RS12490	hypothetical protein
+F6X01_RS12495	hypothetical protein
+F6X01_RS12500	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+F6X01_RS12510	hypothetical protein
+F6X01_RS12515	hypothetical protein
+F6X01_RS12520	hypothetical protein
+F6X01_RS12525	alanine racemase
+F6X01_RS12530	peptidoglycan bridge formation glycyltransferase FemA/FemB family protein
+F6X01_RS12535	hypothetical protein
+F6X01_RS12540	RNA-binding protein
+F6X01_RS12545	membrane protein insertase YidC
+F6X01_RS12550	membrane protein insertion efficiency factor YidD
+F6X01_RS12555	ribonuclease P protein component
+F6X01_RS12560	50S ribosomal protein L34
+F6X01_RS12570	hypothetical protein
+F6X01_RS12575	hypothetical protein
+F6X01_RS12580	hypothetical protein
+F6X01_RS12585	hypothetical protein
+F6X01_RS12590	hypothetical protein
+F6X01_RS12600	hypothetical protein
+F6X01_RS12645	hypothetical protein
+F6X01_RS12655	hypothetical protein
+F6X01_RS12665	hypothetical protein
+F6X01_RS12670	hypothetical protein
+F6X01_RS12675	hypothetical protein
+F6X01_RS12680	hypothetical protein
+F6X01_RS12685	hypothetical protein
+F6X01_RS12695	hypothetical protein
+F6X01_RS12705	hypothetical protein
+F6X01_RS12715	hypothetical protein
+F6X01_RS12735	hypothetical protein
+F6X01_RS12740	hypothetical protein
+F6X01_RS12745	hypothetical protein
+F6X01_RS12750	hypothetical protein
+F6X01_RS12755	hypothetical protein
+F6X01_RS12765	hypothetical protein
+F6X01_RS12770	hypothetical protein
+F6X01_RS12775	methylenetetrahydrofolate reductase
+F6X01_RS12780	hypothetical protein
+F6X01_RS12785	ABC transporter ATP-binding protein
+F6X01_RS12790	hypothetical protein
+F6X01_RS12795	ATP-binding cassette domain-containing protein
+F6X01_RS12805	AMP-binding protein
+F6X01_RS12820	hypothetical protein
+F6X01_RS12825	hypothetical protein
+F6X01_RS12830	hypothetical protein
+F6X01_RS12835	hypothetical protein
+F6X01_RS12840	hypothetical protein
+F6X01_RS12855	hypothetical protein
+F6X01_RS12865	hypothetical protein
+F6X01_RS12870	hypothetical protein
+F6X01_RS12875	hypothetical protein
+F6X01_RS12880	hypothetical protein
+F6X01_RS12885	hypothetical protein
+F6X01_RS12890	hypothetical protein
+F6X01_RS12895	hypothetical protein
+F6X01_RS12900	hypothetical protein
+F6X01_RS12905	PLDc N-terminal domain-containing protein
+F6X01_RS12910	AsnC family transcriptional regulator
+F6X01_RS12915	hypothetical protein
+F6X01_RS12920	ABC transporter ATP-binding protein
+F6X01_RS12925	hypothetical protein
+F6X01_RS12930	glycoside hydrolase family 95 protein
+F6X01_RS12935	hypothetical protein
+F6X01_RS12940	insulinase family protein
+F6X01_RS12945	hypothetical protein
+F6X01_RS12950	hypothetical protein
+F6X01_RS12955	hypothetical protein
+F6X01_RS12960	ATP-binding cassette domain-containing protein
+F6X01_RS12965	hypothetical protein
+F6X01_RS12970	hypothetical protein
+F6X01_RS12975	DUF2264 domain-containing protein
+F6X01_RS12980	hypothetical protein
+F6X01_RS12985	S-ribosylhomocysteine lyase
+F6X01_RS12990	hypothetical protein
+F6X01_RS12995	alpha/beta hydrolase
+F6X01_RS13000	carbon starvation protein
+F6X01_RS13005	carbon starvation protein A
+F6X01_RS13010	hypothetical protein
+F6X01_RS13015	DUF2510 domain-containing protein
+F6X01_RS13020	ATP-binding cassette domain-containing protein
+F6X01_RS13025	transposase
+F6X01_RS13030	transposase
+F6X01_RS13035	hypothetical protein
+F6X01_RS13040	AMP-binding protein
+F6X01_RS13045	hypothetical protein
+F6X01_RS13050	hypothetical protein
+F6X01_RS13055	GntR family transcriptional regulator
+F6X01_RS13060	hypothetical protein
+F6X01_RS13065	proteasome subunit alpha
+F6X01_RS13070	hypothetical protein
+F6X01_RS13075	hypothetical protein
+F6X01_RS13080	transcriptional regulator
+F6X01_RS13085	hypothetical protein
+F6X01_RS13090	uracil-DNA glycosylase
+F6X01_RS13095	condensation domain-containing protein
+F6X01_RS13100	phosphopantetheine-binding protein
+F6X01_RS13105	hypothetical protein
+F6X01_RS13110	AMP-binding protein
+F6X01_RS13115	hypothetical protein
+F6X01_RS13120	ClbS/DfsB family four-helix bundle protein
+F6X01_RS13125	hypothetical protein
+F6X01_RS13130	aconitase family protein
+F6X01_RS13135	hypothetical protein
+F6X01_RS13140	tetratricopeptide repeat protein
+F6X01_RS13145	hypothetical protein
+F6X01_RS13150	hypothetical protein
+F6X01_RS13155	MGMT family protein
+F6X01_RS13160	hypothetical protein
+F6X01_RS13165	translation initiation factor IF-2
+F6X01_RS13170	hypothetical protein
+F6X01_RS13175	translation initiation factor IF-2 N-terminal domain-containing protein
+F6X01_RS13180	glycoside hydrolase family 13 protein
+F6X01_RS13185	hypothetical protein
+F6X01_RS13190	GNAT family N-acetyltransferase
+F6X01_RS13195	C4-dicarboxylate ABC transporter
+F6X01_RS13200	hypothetical protein
+F6X01_RS13205	DUF3017 domain-containing protein
+F6X01_RS13210	hypothetical protein
+F6X01_RS13215	hypothetical protein
+F6X01_RS13220	SEC-C domain-containing protein
+F6X01_RS13225	amidase
+F6X01_RS13230	WYL domain-containing protein
+F6X01_RS13235	isoaspartyl peptidase/L-asparaginase
+F6X01_RS13240	hypothetical protein
+F6X01_RS13245	NAD-dependent protein deacylase
+F6X01_RS13250	hypothetical protein
+F6X01_RS13255	prephenate dehydratase
+F6X01_RS13260	L,D-transpeptidase
+F6X01_RS13265	hypothetical protein
+F6X01_RS13270	Tat pathway signal sequence
+F6X01_RS13275	alpha-L-arabinofuranosidase

@@ -1,0 +1,77 @@
+source activate pyseer
+# step1
+# gwas analysis
+genotype_file=~/Genotype
+phenotype_file=~/phenotype/*.phynotype.txt
+
+for sample in `ls ${phenotype_file}`
+do
+    tmp=`basename ${sample} .phynotype.txt`
+    mkdir output/${tmp}
+    pyseer --lmm --phenotypes ${sample} --continuous --vcf ${genotype}/genotype.vcf --similarity phylogeny_similarity.tsv --output-patterns gwas_patterns.txt --covariates covariates.txt --use-covariates 2 --cpu 15 --min-af 0.05 --max-af 0.95 --max-missing 0.05 > gwas_output.txt
+
+    mv gwas_patterns.txt gwas_output.txt ./output/${tmp}
+done
+
+# step2
+# significant threshold
+path=./output
+
+for sample in `ls ${path}`
+do
+    python ~/pyseer/scripts/count_patterns.py ./output/${sample}/gwas_patterns.txt > ./output/${sample}/threshold.txt
+done
+
+# step3
+# get significant SNP based on significant threshold
+path=./output
+for sample in `ls ${path}`
+do
+    perl ./scr/01.significant_SNP.pl -input ${path}/${sample}/gwas_output.txt -threshold  ${path}/${sample}/threshold.txt > ${path}/${sample}/${sample}_significant_SNP.txt
+done
+
+# step4
+# summary of significant SNP number in ech phenotype
+path=./output
+
+for sample in `ls ${path}`
+do
+    perl ./scr/02.extract_significant_phynotype.pl -input output/${sample}/${sample}_significant_SNP.txt >> significant_SNP_ineachphynotype_summary.txt
+done
+
+# step5
+# the number of significant SNP number in each gene
+# the number of significant SNP number in each gene of each phenotype
+perl ./scr/gene_phynotype_correlation_stat.pl -ref ./ref/ref_gff_product_1.txt ./output/*/*_significant_SNP.txt > unconding_region_snp_number_stat.txt
+
+# step6
+
+perl scr/03.add_name.pl -ref ID2metabolomeName.txt -input significant_SNP_metabolome_summary.txt > significant_SNP_metabolome_summary_withname.txt
+perl scr/04.merge_same_gene_name.pl -input significant_SNP_metabolome_summary_withname.txt > significant_SNP_metabolome_summary_withname_mergesamename.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

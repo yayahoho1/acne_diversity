@@ -1,0 +1,145 @@
+name,Degree,Group,Order
+Tran+histidine phosphatase family protein,15,Transcriptome,1
+Tran+ABC transporter ATP-binding protein,13,Transcriptome,2
+Tran+TetR/AcrR family transcriptional regulator,12,Transcriptome,3
+Tran+glycosyltransferase,12,Transcriptome,4
+Tran+FCD domain-containing protein,11,Transcriptome,5
+Tran+MFS transporter,11,Transcriptome,6
+Tran+ATP-binding cassette domain-containing protein,10,Transcriptome,7
+Tran+alpha-amylase family protein,10,Transcriptome,8
+Tran+potassium channel family protein,9,Transcriptome,9
+Tran+Maf family nucleotide pyrophosphatase,9,Transcriptome,10
+Tran+PhoH family protein,9,Transcriptome,11
+Tran+FUSC family protein,9,Transcriptome,12
+Tran+methylmalonyl Co-A mutase-associated GTPase MeaB,9,Transcriptome,13
+Tran+superoxide dismutase,8,Transcriptome,14
+Tran+RpiB/LacA/LacB family sugar-phosphate isomerase,8,Transcriptome,15
+Tran+MarR family transcriptional regulator,8,Transcriptome,16
+Tran+HtaA domain-containing protein,8,Transcriptome,17
+Tran+Ig-like domain-containing protein,8,Transcriptome,18
+Tran+preprotein translocase subunit YajC,7,Transcriptome,19
+Tran+chorismate synthase,7,Transcriptome,20
+Tran+bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA,7,Transcriptome,21
+Tran+ribonuclease,7,Transcriptome,22
+Tran+peptidase inhibitor family I36 protein,7,Transcriptome,23
+Tran+sugar ABC transporter permease,7,Transcriptome,24
+Tran+DEAD/DEAH box helicase,7,Transcriptome,25
+Tran+helix-turn-helix domain-containing protein,7,Transcriptome,26
+Tran+IMPACT family protein,7,Transcriptome,27
+Tran+mannose-1-phosphate guanylyltransferase,6,Transcriptome,28
+Tran+hemolysin family protein,6,Transcriptome,29
+Tran+trigger factor,6,Transcriptome,30
+Tran+DUF6350 family protein,6,Transcriptome,31
+Tran+uracil-DNA glycosylase,5,Transcriptome,32
+Tran+glutamate racemase,5,Transcriptome,33
+Tran+CAMP factor pore-forming toxin 4,4,Transcriptome,34
+Tran+FxLYD domain-containing protein,4,Transcriptome,35
+Tran+PRC and DUF2382 domain-containing protein,3,Transcriptome,36
+Tran+argininosuccinate synthase,3,Transcriptome,37
+Tran+DUF4282 domain-containing protein,2,Transcriptome,38
+Tran+VIT family protein,1,Transcriptome,39
+M292T94,103,Metabolome,40
+M90T590,43,Metabolome,41
+M339T308,39,Metabolome,42
+M256T99,33,Metabolome,43
+M112T76,19,Metabolome,44
+M165T463,17,Metabolome,45
+M261T92,14,Metabolome,46
+M117T711_1,14,Metabolome,47
+M112T298,9,Metabolome,48
+M104T640,6,Metabolome,49
+ABC transporter ATP-binding protein,24,Genome,50
+glycosyltransferase,16,Genome,51
+ATP-binding cassette domain-containing protein,15,Genome,52
+MFS transporter,9,Genome,53
+hypothetical protein,9,Genome,54
+MFS transporter,9,Genome,55
+O-antigen ligase family protein,7,Genome,56
+DUF6531 domain-containing protein,5,Genome,57
+sugar kinase,5,Genome,58
+penicillin binding protein PBP4B,5,Genome,59
+class I adenylate-forming enzyme family protein,5,Genome,60
+cbb3-type cytochrome c oxidase subunit I,5,Genome,61
+geranylgeranyl reductase family protein,4,Genome,62
+ABC transporter substrate-binding protein,3,Genome,63
+acyl-CoA dehydratase activase-related protein,2,Genome,64
+bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,2,Genome,65
+oleate hydratase,2,Genome,66
+8-oxo-dGTP diphosphatase,2,Genome,67
+ROK family transcriptional regulator,2,Genome,68
+class I SAM-dependent methyltransferase,2,Genome,69
+cytochrome c biogenesis protein ResB,2,Genome,70
+right-handed parallel beta-helix repeat-containing protein,2,Genome,71
+diaminopimelate epimerase,2,Genome,72
+type II 3-dehydroquinate dehydratase,2,Genome,73
+3-oxoacyl-ACP reductase FabG,2,Genome,74
+preprotein translocase subunit SecY,2,Genome,75
+glycosyl hydrolase family 18 protein,2,Genome,76
+LacI family DNA-binding transcriptional regulator,1,Genome,77
+CCA tRNA nucleotidyltransferase,1,Genome,78
+suppressor of fused domain protein,1,Genome,79
+mechanosensitive ion channel family protein,1,Genome,80
+glycerate kinase,1,Genome,81
+error-prone DNA polymerase,1,Genome,82
+ATP-dependent helicase HrpB,1,Genome,83
+energy-coupling factor transporter transmembrane component T,1,Genome,84
+APC family permease,1,Genome,85
+DNA polymerase IV,1,Genome,86
+oligopeptide:H+ symporter,1,Genome,87
+pyruvate:ferredoxin (flavodoxin) oxidoreductase,1,Genome,88
+glycosyltransferase family 2 protein,1,Genome,89
+glycoside hydrolase family 2 TIM barrel-domain containing protein,1,Genome,90
+DUF4118 domain-containing protein,1,Genome,91
+potassium-transporting ATPase subunit KdpB,1,Genome,92
+transglycosylase domain-containing protein,1,Genome,93
+SDR family oxidoreductase,1,Genome,94
+ferrous iron transporter B,1,Genome,95
+(Fe-S)-binding protein,1,Genome,96
+insulinase family protein,1,Genome,97
+GNAT family N-acetyltransferase,1,Genome,98
+fructose-specific PTS transporter subunit EIIC,1,Genome,99
+iron ABC transporter permease,1,Genome,100
+DNA polymerase Y family protein,1,Genome,101
+4-alpha-glucanotransferase,1,Genome,102
+anaerobic ribonucleoside triphosphate reductase,1,Genome,103
+nicotinate phosphoribosyltransferase,1,Genome,104
+substrate-binding domain-containing protein,1,Genome,105
+DUF4091 domain-containing protein,1,Genome,106
+DUF559 domain-containing protein,1,Genome,107
+DUF5719 family protein,1,Genome,108
+mannose-1-phosphate guanylyltransferase,1,Genome,109
+pitrilysin family protein,1,Genome,110
+DNA-directed RNA polymerase subunit alpha,1,Genome,111
+potassium-transporting ATPase subunit KdpA,1,Genome,112
+DUF2029 domain-containing protein,1,Genome,113
+acyl-CoA carboxylase subunit beta,1,Genome,114
+cytochrome c biogenesis protein CcdA,1,Genome,115
+membrane protein,1,Genome,116
+radical SAM protein,1,Genome,117
+TIGR03089 family protein,1,Genome,118
+UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing),1,Genome,119
+glutamate racemase,1,Genome,120
+extracellular solute-binding protein,1,Genome,121
+ECF transporter S component,1,Genome,122
+GerMN domain-containing protein,1,Genome,123
+MurR/RpiR family transcriptional regulator,1,Genome,124
+NAD-glutamate dehydrogenase,1,Genome,125
+carbohydrate ABC transporter substrate-binding protein,1,Genome,126
+chain-length determining protein,1,Genome,127
+cobaltochelatase subunit CobN,1,Genome,128
+dihydroorotate dehydrogenase-like protein,1,Genome,129
+mycothione reductase,1,Genome,130
+thiamine phosphate synthase,1,Genome,131
+thymidylate synthase,1,Genome,132
+type II secretion system F family protein,1,Genome,133
+LutB/LldF family L-lactate oxidation iron-sulfur protein,1,Genome,134
+SIS domain-containing protein,1,Genome,135
+tRNA pseudouridine(38-40) synthase TruA,1,Genome,136
+cytochrome bc complex cytochrome b subunit,1,Genome,137
+sugar phosphate isomerase/epimerase,1,Genome,138
+GuaB1 family IMP dehydrogenase-related protein,1,Genome,139
+ABC-F family ATP-binding cassette domain-containing protein,1,Genome,140
+Rieske 2Fe-2S domain-containing protein,1,Genome,141
+response regulator transcription factor,1,Genome,142
+ABC transporter permease,1,Genome,143
+FAD-dependent oxidoreductase,1,Genome,144

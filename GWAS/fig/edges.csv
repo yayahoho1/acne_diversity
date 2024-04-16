@@ -1,0 +1,399 @@
+From,To,sig_SNP_number
+M292T94,hypothetical protein,455
+M90T590,hypothetical protein,140
+M339T308,hypothetical protein,129
+M292T94,ABC transporter ATP-binding protein,116
+M292T94,O-antigen ligase family protein,92
+M261T92,LacI family DNA-binding transcriptional regulator,80
+M261T92,CCA tRNA nucleotidyltransferase,76
+M292T94,glycosyltransferase,66
+M261T92,suppressor of fused domain protein,62
+M292T94,ATP-binding cassette domain-containing protein,58
+M261T92,mechanosensitive ion channel family protein,57
+M261T92,glycerate kinase,51
+M292T94,ABC transporter substrate-binding protein,50
+M292T94,acyl-CoA dehydratase activase-related protein,50
+M117T711_1,error-prone DNA polymerase,44
+M292T94,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,44
+M292T94,oleate hydratase,44
+M292T94,ATP-dependent helicase HrpB,42
+M90T590,energy-coupling factor transporter transmembrane component T,38
+M117T711_1,hypothetical protein,36
+M292T94,APC family permease,36
+M292T94,DNA polymerase IV,36
+M339T308,8-oxo-dGTP diphosphatase,36
+M292T94,oligopeptide:H+ symporter,35
+M292T94,pyruvate:ferredoxin (flavodoxin) oxidoreductase,35
+M292T94,ROK family transcriptional regulator,34
+M292T94,glycosyltransferase family 2 protein,34
+M292T94,glycoside hydrolase family 2 TIM barrel-domain containing protein,33
+M292T94,8-oxo-dGTP diphosphatase,32
+M292T94,DUF4118 domain-containing protein,32
+M292T94,potassium-transporting ATPase subunit KdpB,32
+M90T590,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,32
+M292T94,MFS transporter,31
+M292T94,transglycosylase domain-containing protein,31
+M104T640,hypothetical protein,30
+M112T76,hypothetical protein,30
+M165T463,hypothetical protein,30
+M90T590,acyl-CoA dehydratase activase-related protein,29
+M117T711_1,ABC transporter substrate-binding protein,28
+M339T308,class I SAM-dependent methyltransferase,28
+M292T94,SDR family oxidoreductase,27
+M292T94,cytochrome c biogenesis protein ResB,27
+M292T94,class I SAM-dependent methyltransferase,26
+M292T94,ferrous iron transporter B,26
+M90T590,right-handed parallel beta-helix repeat-containing protein,26
+M292T94,(Fe-S)-binding protein,25
+M292T94,insulinase family protein,25
+M90T590,diaminopimelate epimerase,25
+M292T94,GNAT family N-acetyltransferase,24
+M292T94,fructose-specific PTS transporter subunit EIIC,24
+M292T94,iron ABC transporter permease,24
+M90T590,ABC transporter ATP-binding protein,24
+M117T711_1,DNA polymerase Y family protein,23
+M292T94,4-alpha-glucanotransferase,23
+M292T94,right-handed parallel beta-helix repeat-containing protein,23
+M292T94,anaerobic ribonucleoside triphosphate reductase,22
+M292T94,nicotinate phosphoribosyltransferase,22
+M292T94,type II 3-dehydroquinate dehydratase,22
+M90T590,oleate hydratase,21
+M292T94,3-oxoacyl-ACP reductase FabG,20
+M292T94,substrate-binding domain-containing protein,20
+M90T590,ROK family transcriptional regulator,20
+M292T94,DUF4091 domain-containing protein,19
+M292T94,DUF559 domain-containing protein,19
+M292T94,DUF5719 family protein,19
+M292T94,mannose-1-phosphate guanylyltransferase,19
+M292T94,pitrilysin family protein,19
+M292T94,DNA-directed RNA polymerase subunit alpha,18
+M292T94,potassium-transporting ATPase subunit KdpA,18
+M292T94,DUF2029 domain-containing protein,17
+M292T94,acyl-CoA carboxylase subunit beta,17
+M292T94,cytochrome c biogenesis protein CcdA,16
+M292T94,membrane protein,16
+M292T94,radical SAM protein,16
+M90T590,preprotein translocase subunit SecY,16
+M90T590,type II 3-dehydroquinate dehydratase,16
+M112T298,hypothetical protein,15
+M292T94,TIGR03089 family protein,15
+M292T94,UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing),15
+M292T94,glutamate racemase,15
+M339T308,ABC transporter substrate-binding protein,15
+M90T590,cytochrome c biogenesis protein ResB,15
+M117T711_1,3-oxoacyl-ACP reductase FabG,14
+M261T92,extracellular solute-binding protein,14
+M292T94,ECF transporter S component,14
+M292T94,GerMN domain-containing protein,14
+M292T94,MurR/RpiR family transcriptional regulator,14
+M292T94,NAD-glutamate dehydrogenase,14
+M292T94,carbohydrate ABC transporter substrate-binding protein,14
+M292T94,chain-length determining protein,14
+M292T94,cobaltochelatase subunit CobN,14
+M292T94,dihydroorotate dehydrogenase-like protein,14
+M292T94,mycothione reductase,14
+M292T94,thiamine phosphate synthase,14
+M292T94,thymidylate synthase,14
+M292T94,type II secretion system F family protein,14
+M90T590,MFS transporter,14
+M256T99,hypothetical protein,13
+M292T94,LutB/LldF family L-lactate oxidation iron-sulfur protein,13
+M292T94,SIS domain-containing protein,13
+M292T94,diaminopimelate epimerase,13
+M292T94,glycosyl hydrolase family 18 protein,13
+M292T94,preprotein translocase subunit SecY,13
+M339T308,glycosyl hydrolase family 18 protein,13
+M90T590,tRNA pseudouridine(38-40) synthase TruA,13
+Tran+TetR/AcrR family transcriptional regulator,ABC transporter ATP-binding protein,236
+Tran+ATP-binding cassette domain-containing protein,ABC transporter ATP-binding protein,221
+Tran+potassium channel family protein,ABC transporter ATP-binding protein,189
+Tran+TetR/AcrR family transcriptional regulator,MFS transporter,188
+Tran+preprotein translocase subunit YajC,ABC transporter ATP-binding protein,176
+Tran+Maf family nucleotide pyrophosphatase,ABC transporter ATP-binding protein,171
+Tran+superoxide dismutase,ABC transporter ATP-binding protein,166
+Tran+alpha-amylase family protein,ABC transporter ATP-binding protein,162
+Tran+CAMP factor pore-forming toxin 4,ABC transporter ATP-binding protein,160
+Tran+chorismate synthase,ABC transporter ATP-binding protein,160
+Tran+PhoH family protein,ABC transporter ATP-binding protein,157
+Tran+TetR/AcrR family transcriptional regulator,DUF6531 domain-containing protein,157
+Tran+bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA,ABC transporter ATP-binding protein,156
+Tran+ribonuclease,DUF6531 domain-containing protein,154
+Tran+mannose-1-phosphate guanylyltransferase,ABC transporter ATP-binding protein,151
+Tran+FUSC family protein,ABC transporter ATP-binding protein,149
+Tran+hemolysin family protein,ABC transporter ATP-binding protein,143
+Tran+FCD domain-containing protein,MFS transporter,141
+Tran+FCD domain-containing protein,DUF6531 domain-containing protein,140
+Tran+RpiB/LacA/LacB family sugar-phosphate isomerase,MFS transporter,140
+Tran+histidine phosphatase family protein,MFS transporter,140
+Tran+ribonuclease,MFS transporter,140
+Tran+RpiB/LacA/LacB family sugar-phosphate isomerase,DUF6531 domain-containing protein,138
+Tran+histidine phosphatase family protein,DUF6531 domain-containing protein,138
+Tran+TetR/AcrR family transcriptional regulator,sugar kinase,129
+Tran+FxLYD domain-containing protein,geranylgeranyl reductase family protein,128
+Tran+MFS transporter,geranylgeranyl reductase family protein,128
+Tran+MarR family transcriptional regulator,geranylgeranyl reductase family protein,128
+Tran+uracil-DNA glycosylase,geranylgeranyl reductase family protein,128
+Tran+FCD domain-containing protein,sugar kinase,127
+Tran+RpiB/LacA/LacB family sugar-phosphate isomerase,sugar kinase,127
+Tran+histidine phosphatase family protein,sugar kinase,127
+Tran+ribonuclease,sugar kinase,127
+Tran+peptidase inhibitor family I36 protein,cytochrome bc complex cytochrome b subunit,126
+Tran+potassium channel family protein,O-antigen ligase family protein,121
+Tran+sugar ABC transporter permease,sugar phosphate isomerase/epimerase,121
+Tran+Maf family nucleotide pyrophosphatase,O-antigen ligase family protein,120
+Tran+peptidase inhibitor family I36 protein,GuaB1 family IMP dehydrogenase-related protein,110
+Tran+HtaA domain-containing protein,ABC transporter ATP-binding protein,109
+Tran+DEAD/DEAH box helicase,ABC-F family ATP-binding cassette domain-containing protein,108
+Tran+TetR/AcrR family transcriptional regulator,penicillin binding protein PBP4B,104
+Tran+ABC transporter ATP-binding protein,ABC transporter ATP-binding protein,103
+Tran+FCD domain-containing protein,penicillin binding protein PBP4B,103
+Tran+RpiB/LacA/LacB family sugar-phosphate isomerase,penicillin binding protein PBP4B,103
+Tran+histidine phosphatase family protein,penicillin binding protein PBP4B,103
+Tran+potassium channel family protein,glycosyltransferase,103
+Tran+ribonuclease,penicillin binding protein PBP4B,103
+Tran+FUSC family protein,glycosyltransferase,102
+Tran+Maf family nucleotide pyrophosphatase,glycosyltransferase,101
+Tran+superoxide dismutase,glycosyltransferase,101
+Tran+FUSC family protein,O-antigen ligase family protein,100
+Tran+methylmalonyl Co-A mutase-associated GTPase MeaB,ABC transporter ATP-binding protein,100
+Tran+trigger factor,ABC transporter ATP-binding protein,100
+Tran+helix-turn-helix domain-containing protein,ABC transporter ATP-binding protein,99
+Tran+preprotein translocase subunit YajC,glycosyltransferase,99
+Tran+DUF6350 family protein,ABC transporter ATP-binding protein,98
+Tran+alpha-amylase family protein,glycosyltransferase,98
+Tran+bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA,glycosyltransferase,98
+Tran+chorismate synthase,glycosyltransferase,98
+Tran+peptidase inhibitor family I36 protein,Rieske 2Fe-2S domain-containing protein,98
+Tran+potassium channel family protein,ATP-binding cassette domain-containing protein,98
+Tran+TetR/AcrR family transcriptional regulator,response regulator transcription factor,97
+Tran+HtaA domain-containing protein,ATP-binding cassette domain-containing protein,96
+Tran+MFS transporter,ABC transporter permease,96
+Tran+FUSC family protein,ATP-binding cassette domain-containing protein,95
+Tran+ABC transporter ATP-binding protein,glycosyltransferase,94
+Tran+Ig-like domain-containing protein,ABC transporter ATP-binding protein,94
+Tran+TetR/AcrR family transcriptional regulator,class I adenylate-forming enzyme family protein,94
+Tran+superoxide dismutase,ATP-binding cassette domain-containing protein,94
+Tran+ABC transporter ATP-binding protein,ATP-binding cassette domain-containing protein,93
+Tran+PhoH family protein,MFS transporter,93
+Tran+FCD domain-containing protein,class I adenylate-forming enzyme family protein,92
+Tran+Maf family nucleotide pyrophosphatase,ATP-binding cassette domain-containing protein,92
+Tran+RpiB/LacA/LacB family sugar-phosphate isomerase,class I adenylate-forming enzyme family protein,92
+Tran+histidine phosphatase family protein,class I adenylate-forming enzyme family protein,92
+Tran+preprotein translocase subunit YajC,ATP-binding cassette domain-containing protein,92
+Tran+ribonuclease,class I adenylate-forming enzyme family protein,92
+Tran+superoxide dismutase,O-antigen ligase family protein,92
+Tran+trigger factor,ATP-binding cassette domain-containing protein,92
+Tran+DUF4282 domain-containing protein,cbb3-type cytochrome c oxidase subunit I,91
+Tran+Ig-like domain-containing protein,ATP-binding cassette domain-containing protein,91
+Tran+PRC and DUF2382 domain-containing protein,cbb3-type cytochrome c oxidase subunit I,91
+Tran+VIT family protein,cbb3-type cytochrome c oxidase subunit I,91
+Tran+argininosuccinate synthase,cbb3-type cytochrome c oxidase subunit I,91
+Tran+glutamate racemase,cbb3-type cytochrome c oxidase subunit I,91
+Tran+methylmalonyl Co-A mutase-associated GTPase MeaB,ATP-binding cassette domain-containing protein,91
+Tran+potassium channel family protein,MFS transporter,91
+Tran+alpha-amylase family protein,ATP-binding cassette domain-containing protein,90
+Tran+bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA,ATP-binding cassette domain-containing protein,90
+Tran+chorismate synthase,ATP-binding cassette domain-containing protein,90
+Tran+glycosyltransferase,ATP-binding cassette domain-containing protein,90
+Tran+ABC transporter ATP-binding protein,O-antigen ligase family protein,89
+Tran+methylmalonyl Co-A mutase-associated GTPase MeaB,glycosyltransferase,89
+Tran+HtaA domain-containing protein,glycosyltransferase,88
+Tran+IMPACT family protein,glycosyltransferase,88
+Tran+Ig-like domain-containing protein,glycosyltransferase,88
+Tran+TetR/AcrR family transcriptional regulator,FAD-dependent oxidoreductase,88
+Tran+glycosyltransferase,ABC transporter ATP-binding protein,88
+Tran+glycosyltransferase,glycosyltransferase,88
+Tran+methylmalonyl Co-A mutase-associated GTPase MeaB,O-antigen ligase family protein,88
+Tran+trigger factor,glycosyltransferase,88
+Tran+ABC transporter ATP-binding protein,M112T298,0.249163208
+Tran+ABC transporter ATP-binding protein,M112T76,0.349137141
+Tran+ABC transporter ATP-binding protein,M117T711_1,-0.220027906
+Tran+ABC transporter ATP-binding protein,M165T463,-0.203361195
+Tran+ABC transporter ATP-binding protein,M256T99,0.434589956
+Tran+ABC transporter ATP-binding protein,M261T92,0.228534814
+Tran+ABC transporter ATP-binding protein,M292T94,0.217820962
+Tran+ABC transporter ATP-binding protein,M339T308,0.296010813
+Tran+ABC transporter ATP-binding protein,M90T590,0.319753393
+Tran+ATP-binding cassette domain-containing protein,M104T640,-0.275443261
+Tran+ATP-binding cassette domain-containing protein,M112T298,0.342794662
+Tran+ATP-binding cassette domain-containing protein,M112T76,0.254871082
+Tran+ATP-binding cassette domain-containing protein,M117T711_1,-0.231133128
+Tran+ATP-binding cassette domain-containing protein,M165T463,0.241474284
+Tran+ATP-binding cassette domain-containing protein,M256T99,0.360097929
+Tran+ATP-binding cassette domain-containing protein,M292T94,0.198847299
+Tran+ATP-binding cassette domain-containing protein,M339T308,0.267484531
+Tran+ATP-binding cassette domain-containing protein,M90T590,0.220995146
+Tran+CAMP factor pore-forming toxin 4,M112T298,-0.253932126
+Tran+CAMP factor pore-forming toxin 4,M292T94,-0.251547667
+Tran+CAMP factor pore-forming toxin 4,M90T590,-0.286728
+Tran+DEAD/DEAH box helicase,M112T76,-0.220549701
+Tran+DEAD/DEAH box helicase,M165T463,-0.256138069
+Tran+DEAD/DEAH box helicase,M256T99,-0.231604919
+Tran+DEAD/DEAH box helicase,M292T94,0.386071955
+Tran+DEAD/DEAH box helicase,M339T308,-0.275443261
+Tran+DEAD/DEAH box helicase,M90T590,0.3004227
+Tran+DUF4282 domain-containing protein,M339T308,0.21802776
+Tran+DUF6350 family protein,M165T463,0.267116781
+Tran+DUF6350 family protein,M256T99,0.508291414
+Tran+DUF6350 family protein,M292T94,0.268723422
+Tran+DUF6350 family protein,M339T308,0.287352804
+Tran+DUF6350 family protein,M90T590,0.212593003
+Tran+FCD domain-containing protein,M112T76,0.326371223
+Tran+FCD domain-containing protein,M117T711_1,-0.224005253
+Tran+FCD domain-containing protein,M256T99,0.235366499
+Tran+FCD domain-containing protein,M292T94,-0.219440353
+Tran+FCD domain-containing protein,M339T308,0.217629695
+Tran+FCD domain-containing protein,M90T590,-0.232369986
+Tran+FUSC family protein,M112T76,-0.259262093
+Tran+FUSC family protein,M256T99,0.271630677
+Tran+FUSC family protein,M292T94,0.27988065
+Tran+FUSC family protein,M339T308,0.436540877
+Tran+FUSC family protein,M90T590,0.427015792
+Tran+FxLYD domain-containing protein,M292T94,-0.31777697
+Tran+FxLYD domain-containing protein,M339T308,-0.237113402
+Tran+FxLYD domain-containing protein,M90T590,-0.3740349
+Tran+HtaA domain-containing protein,M112T76,0.349310483
+Tran+HtaA domain-containing protein,M165T463,-0.231362648
+Tran+HtaA domain-containing protein,M256T99,-0.42242539
+Tran+HtaA domain-containing protein,M292T94,-0.296482604
+Tran+HtaA domain-containing protein,M339T308,-0.407710601
+Tran+IMPACT family protein,M112T76,-0.251432907
+Tran+IMPACT family protein,M165T463,0.204343031
+Tran+IMPACT family protein,M256T99,0.464147046
+Tran+IMPACT family protein,M292T94,0.400072681
+Tran+IMPACT family protein,M339T308,0.426174219
+Tran+IMPACT family protein,M90T590,0.328589918
+Tran+Ig-like domain-containing protein,M165T463,0.244432543
+Tran+Ig-like domain-containing protein,M256T99,0.619034868
+Tran+Ig-like domain-containing protein,M292T94,0.468112643
+Tran+Ig-like domain-containing protein,M339T308,0.411255411
+Tran+Ig-like domain-containing protein,M90T590,0.263278695
+Tran+MFS transporter,M104T640,-0.244266779
+Tran+MFS transporter,M112T76,0.290005037
+Tran+MFS transporter,M117T711_1,-0.243783632
+Tran+MFS transporter,M165T463,0.30065222
+Tran+MFS transporter,M256T99,0.286447475
+Tran+MFS transporter,M261T92,0.241729307
+Tran+MFS transporter,M292T94,0.221659048
+Tran+MFS transporter,M339T308,0.383037189
+Tran+MFS transporter,M90T590,-0.222207346
+Tran+Maf family nucleotide pyrophosphatase,M256T99,0.575387793
+Tran+Maf family nucleotide pyrophosphatase,M261T92,-0.207479805
+Tran+Maf family nucleotide pyrophosphatase,M292T94,0.493347105
+Tran+Maf family nucleotide pyrophosphatase,M339T308,0.433314844
+Tran+Maf family nucleotide pyrophosphatase,M90T590,0.516082347
+Tran+MarR family transcriptional regulator,M112T76,0.247288794
+Tran+MarR family transcriptional regulator,M117T711_1,-0.210221296
+Tran+MarR family transcriptional regulator,M165T463,0.315358279
+Tran+MarR family transcriptional regulator,M256T99,0.203756479
+Tran+MarR family transcriptional regulator,M292T94,0.383942518
+Tran+MarR family transcriptional regulator,M339T308,0.357165172
+Tran+MarR family transcriptional regulator,M90T590,0.239536114
+Tran+PRC and DUF2382 domain-containing protein,M104T640,-0.224553552
+Tran+PRC and DUF2382 domain-containing protein,M261T92,0.20068346
+Tran+PhoH family protein,M112T298,0.214008377
+Tran+PhoH family protein,M112T76,-0.2365141
+Tran+PhoH family protein,M117T711_1,-0.224298529
+Tran+PhoH family protein,M256T99,0.377681719
+Tran+PhoH family protein,M292T94,0.284547558
+Tran+PhoH family protein,M339T308,0.377681719
+Tran+PhoH family protein,M90T590,0.358185261
+Tran+RpiB/LacA/LacB family sugar-phosphate isomerase,M256T99,-0.339441119
+Tran+RpiB/LacA/LacB family sugar-phosphate isomerase,M292T94,-0.303062181
+Tran+RpiB/LacA/LacB family sugar-phosphate isomerase,M90T590,-0.368666679
+Tran+TetR/AcrR family transcriptional regulator,M112T76,-0.262921664
+Tran+TetR/AcrR family transcriptional regulator,M256T99,0.367684843
+Tran+TetR/AcrR family transcriptional regulator,M292T94,-0.238549145
+Tran+TetR/AcrR family transcriptional regulator,M339T308,0.340435706
+Tran+alpha-amylase family protein,M112T76,-0.315418014
+Tran+alpha-amylase family protein,M117T711_1,-0.236730869
+Tran+alpha-amylase family protein,M165T463,0.257578945
+Tran+alpha-amylase family protein,M256T99,0.486946044
+Tran+alpha-amylase family protein,M261T92,0.233976627
+Tran+alpha-amylase family protein,M292T94,0.237240913
+Tran+alpha-amylase family protein,M339T308,0.37209673
+Tran+argininosuccinate synthase,M256T99,0.199115072
+Tran+argininosuccinate synthase,M339T308,0.298153001
+Tran+bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA,M165T463,0.260231178
+Tran+bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA,M256T99,0.522037119
+Tran+bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA,M292T94,0.290578837
+Tran+bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA,M339T308,0.370260569
+Tran+chorismate synthase,M256T99,0.425472907
+Tran+chorismate synthase,M292T94,0.363234703
+Tran+chorismate synthase,M339T308,0.583497504
+Tran+chorismate synthase,M90T590,0.32017418
+Tran+glutamate racemase,M256T99,-0.365950691
+Tran+glutamate racemase,M292T94,-0.312893292
+Tran+glutamate racemase,M339T308,-0.319409113
+Tran+glutamate racemase,M90T590,-0.290107046
+Tran+glycosyltransferase,M112T298,0.321806323
+Tran+glycosyltransferase,M112T76,-0.311350407
+Tran+glycosyltransferase,M117T711_1,-0.218726291
+Tran+glycosyltransferase,M165T463,0.215053969
+Tran+glycosyltransferase,M256T99,0.442100364
+Tran+glycosyltransferase,M261T92,0.25158592
+Tran+glycosyltransferase,M292T94,0.383062691
+Tran+glycosyltransferase,M339T308,0.221659048
+Tran+glycosyltransferase,M90T590,0.346033446
+Tran+helix-turn-helix domain-containing protein,M112T298,0.207224783
+Tran+helix-turn-helix domain-containing protein,M112T76,-0.217897468
+Tran+helix-turn-helix domain-containing protein,M165T463,-0.362648152
+Tran+helix-turn-helix domain-containing protein,M256T99,-0.206867752
+Tran+helix-turn-helix domain-containing protein,M292T94,-0.29369011
+Tran+helix-turn-helix domain-containing protein,M339T308,-0.272625264
+Tran+hemolysin family protein,M112T76,-0.201065993
+Tran+hemolysin family protein,M256T99,0.2245408
+Tran+hemolysin family protein,M292T94,0.348787688
+Tran+hemolysin family protein,M339T308,0.247301545
+Tran+hemolysin family protein,M90T590,0.41945438
+Tran+histidine phosphatase family protein,M104T640,-0.227830589
+Tran+histidine phosphatase family protein,M112T298,-0.419760407
+Tran+histidine phosphatase family protein,M112T76,-0.335794299
+Tran+histidine phosphatase family protein,M117T711_1,-0.250744346
+Tran+histidine phosphatase family protein,M165T463,0.235340997
+Tran+histidine phosphatase family protein,M256T99,0.360378453
+Tran+histidine phosphatase family protein,M261T92,0.212605755
+Tran+histidine phosphatase family protein,M292T94,0.269054951
+Tran+histidine phosphatase family protein,M339T308,0.225254863
+Tran+histidine phosphatase family protein,M90T590,-0.211496407
+Tran+mannose-1-phosphate guanylyltransferase,M165T463,-0.236896633
+Tran+mannose-1-phosphate guanylyltransferase,M256T99,-0.453423356
+Tran+mannose-1-phosphate guanylyltransferase,M292T94,-0.329814025
+Tran+mannose-1-phosphate guanylyltransferase,M339T308,-0.387984622
+Tran+mannose-1-phosphate guanylyltransferase,M90T590,-0.294429674
+Tran+methylmalonyl Co-A mutase-associated GTPase MeaB,M112T76,-0.241257515
+Tran+methylmalonyl Co-A mutase-associated GTPase MeaB,M256T99,0.358044999
+Tran+methylmalonyl Co-A mutase-associated GTPase MeaB,M292T94,0.33032407
+Tran+methylmalonyl Co-A mutase-associated GTPase MeaB,M339T308,0.552321022
+Tran+methylmalonyl Co-A mutase-associated GTPase MeaB,M90T590,0.251955703
+Tran+peptidase inhibitor family I36 protein,M256T99,0.477803493
+Tran+peptidase inhibitor family I36 protein,M292T94,0.325950436
+Tran+peptidase inhibitor family I36 protein,M339T308,0.356374602
+Tran+peptidase inhibitor family I36 protein,M90T590,0.199497606
+Tran+potassium channel family protein,M256T99,0.446448495
+Tran+potassium channel family protein,M292T94,0.281334277
+Tran+potassium channel family protein,M339T308,0.440021932
+Tran+potassium channel family protein,M90T590,0.337834478
+Tran+preprotein translocase subunit YajC,M256T99,0.40861593
+Tran+preprotein translocase subunit YajC,M292T94,0.242876907
+Tran+preprotein translocase subunit YajC,M339T308,0.401500807
+Tran+preprotein translocase subunit YajC,M90T590,0.368016372
+Tran+ribonuclease,M112T298,-0.204368533
+Tran+ribonuclease,M90T590,-0.210438065
+Tran+sugar ABC transporter permease,M112T76,0.452800235
+Tran+sugar ABC transporter permease,M165T463,0.203909493
+Tran+sugar ABC transporter permease,M256T99,0.4664805
+Tran+sugar ABC transporter permease,M292T94,0.236463095
+Tran+sugar ABC transporter permease,M339T308,-0.292022647
+Tran+sugar ABC transporter permease,M90T590,0.220001403
+Tran+superoxide dismutase,M256T99,-0.599423649
+Tran+superoxide dismutase,M292T94,-0.293447838
+Tran+superoxide dismutase,M339T308,-0.411637945
+Tran+superoxide dismutase,M90T590,-0.284598563
+Tran+trigger factor,M261T92,-0.24907395
+Tran+trigger factor,M339T308,0.303980261
+Tran+trigger factor,M90T590,0.245248615
+Tran+uracil-DNA glycosylase,M104T640,-0.258076239
+Tran+uracil-DNA glycosylase,M256T99,-0.306071445
+Tran+uracil-DNA glycosylase,M292T94,-0.279128334
+Tran+uracil-DNA glycosylase,M339T308,-0.470267582
