@@ -1,4 +1,4 @@
-# Acne C.ance diversity <br/>
+# Acne C.acnes diversity <br/>
 Code to reproduce our work "Multiomics Signatures Reveal Genomic and Functional Heterogeneity of Cutibacterium acnes in Normal and Diseased Skin"<br/>
 
 ****
